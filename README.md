@@ -18,7 +18,8 @@ zwykła strona (GitHub Pages, Cloudflare Pages albo dowolny hosting plików).
 | `oferta.txt` | `O` + RRRRMM + bieżąca oferta 8 rodzajów (po 12 cyfr) | listy emisyjne MF |
 | `brokerzy.txt` | `F` + reguły prowizji (broker, konto, rynek, instrument, od, do, %, minimum, przewalutowanie, próg obrotu) | `dane/brokerzy.json` (z tabel opłat) |
 | `limity.txt` | `L` + limity wpłat IKE / IKZE / IKZE JDG na każdy rok | `dane/limity.json` |
-| `metale.txt`, `krypto.txt` | cena spot zł/oz (XAU, XAG, XPT, XPD) i zł (BTC, ETH) | gold-api.com × kurs NBP |
+| `metale.txt`, `krypto.txt` | cena spot zł/oz (XAU, XAG, XPT, XPD) i zł (BTC, ETH – starszy format) | gold-api.com × kurs NBP |
+| `kryptowaluty.txt` | `W` + RRRRMMDDGGMM + rekordy `;` + symbol (6 znaków, dopełniony spacjami) + cena zł ×10⁸ (16 cyfr); arkusze czytają do 30 monet | BTC, ETH: gold-api.com; pozostałe: Bitstamp (tylko z licencją – niżej) × kurs NBP |
 | `metale_hist.txt` | średnie miesięczne zł/oz od 5 lat | Bank Światowy (Pink Sheet, CC BY 4.0), MFW przez DBnomics |
 
 Format: jedna linia, pola o stałej szerokości, same cyfry (brak danych = `-`), na początku litera –
@@ -56,3 +57,10 @@ NBP i GUS – dane publiczne, ponowne wykorzystanie z podaniem źródła. Listy 
 urzędowe (art. 4 prawa autorskiego). Bank Światowy – CC BY 4.0. MFW (DBnomics) – z podaniem źródła.
 gold-api.com – darmowe API dopuszczające użycie komercyjne. Notowań akcji i ETF API **nie** udostępnia
 (licencje giełd) – arkusz bierze je z GOOGLEFINANCE / STOCKHISTORY po stronie użytkownika.
+
+**Kryptowaluty.** Darmowe plany CoinGecko, CoinPaprika, Binance, Coinbase i CoinLore zabraniają redystrybucji albo
+użytku komercyjnego (sprawdzone 1.10.2026). Bitstamp pozwala na redystrybucję danych do celów komercyjnych po
+podpisaniu „Data License Agreement” (partners@bitstamp.net); zapasowo Kraken (marketdata@kraken.com, też za zgodą).
+Do czasu podpisania umowy `kryptowaluty.txt` zawiera tylko BTC i ETH z gold-api.com. Po podpisaniu: w repozytorium
+Settings → Secrets and variables → Actions → Variables dodaj `KRYPTO_BITSTAMP` = `1` – kolejny przebieg dopisze
+pozostałe monety (lista w `zrodla/krypto.py`). Arkusze nie wymagają zmian.

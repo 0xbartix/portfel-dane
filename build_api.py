@@ -14,7 +14,7 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from zrodla import format as fmt
-from zrodla import gus, metale, nbp, obligacje
+from zrodla import gus, krypto, metale, nbp, obligacje
 
 ROOT = Path(__file__).parent
 DANE, OUT = ROOT / "dane", ROOT / "public" / "v1"
@@ -101,6 +101,13 @@ def build_metals(today, fx):
     stamp = max(v["czas"] for v in spot.values())[:16].replace("-", "").replace("T", "").replace(":", "")
     write("metale.txt", "M" + stamp + "".join(fmt.num(spot[s]["usd"] * last_usd, 9, 100) for s in metale.SYMBOLS))
     write("krypto.txt", "C" + stamp + "".join(fmt.num(spot[s]["usd"] * last_usd, 11, 100) for s in metale.CRYPTO))
+    # lista monet: BTC i ETH z gold-api.com, reszta z Bitstampu tylko po podpisaniu umowy licencyjnej
+    usd_prices = {s: spot[s]["usd"] for s in krypto.GOLD_API}
+    if krypto.bitstamp_enabled():
+        if not OFFLINE:
+            save("krypto_bitstamp.json", krypto.bitstamp_usd())
+        usd_prices = {**load("krypto_bitstamp.json", {}), **usd_prices}
+    write("kryptowaluty.txt", krypto.line(stamp, {s: v * last_usd for s, v in usd_prices.items()}))
 
     hist = load("metale_hist.json", {})
     stale = hist.get("_pobrano", "") < (datetime.now(timezone.utc) - timedelta(hours=20)).isoformat()
@@ -173,7 +180,8 @@ OPIS = {
     "oferta": "bieżąca oferta obligacji skarbowych",
     "brokerzy": "prowizje XTB, mBank, BOŚ (Bossa), PKO z datami obowiązywania",
     "limity": "limity wpłat IKE / IKZE", "metale": "kruszce – cena spot zł/oz",
-    "krypto": "BTC, ETH – cena zł", "metale_hist": "kruszce – średnie miesięczne zł/oz",
+    "krypto": "BTC, ETH – cena zł (starszy format)", "kryptowaluty": "kryptowaluty – lista monet z ceną zł",
+    "metale_hist": "kruszce – średnie miesięczne zł/oz",
 }
 
 

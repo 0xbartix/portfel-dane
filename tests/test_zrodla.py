@@ -131,3 +131,24 @@ def test_limity_rosna_i_ikze_to_40_procent_ike():
         assert lim[y]["ikze"] == pytest.approx(lim[y]["ike"] * 0.4, abs=0.01)       # 1,2 / 3
         assert lim[y]["ikze_jdg"] == pytest.approx(lim[y]["ike"] * 0.6, abs=0.01)   # 1,8 / 3
     assert all(lim[a]["ike"] < lim[b]["ike"] for a, b in zip(years, years[1:]))
+
+
+# --- kryptowaluty --------------------------------------------------------------------------
+def test_kryptowaluty_format():
+    from zrodla import krypto
+    s = krypto.line("202610011219", {"BTC": 452318.37, "ETH": 15234.5, "SHIB": 0.0000512, "XXX": None})
+    assert s.startswith("W202610011219;BTC   ")
+    recs = s[13:].split(";")[1:]
+    assert [r[:6].strip() for r in recs] == ["BTC", "ETH", "SHIB"]     # kolejność z COINS, bez braków
+    assert all(len(r) == 6 + krypto.WIDTH for r in recs)
+    assert int(recs[2][6:]) / 1e8 == pytest.approx(0.0000512)
+    assert int(recs[0][6:]) / 1e8 == pytest.approx(452318.37)
+
+
+def test_kryptowaluty_bitstamp_tylko_z_licencja(monkeypatch):
+    from zrodla import krypto
+    monkeypatch.delenv("KRYPTO_BITSTAMP", raising=False)
+    assert not krypto.bitstamp_enabled()
+    monkeypatch.setenv("KRYPTO_BITSTAMP", "1")
+    assert krypto.bitstamp_enabled()
+    assert all(len(c) <= 6 for c in krypto.COINS)
