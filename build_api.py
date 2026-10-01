@@ -162,6 +162,46 @@ def build_static():
                                           + fmt.num(v["ikze_jdg"], 8, 100) for y, v in sorted(lim.items())]))
 
 
+OPIS = {
+    "meta": "czas aktualizacji API (UTC) i ewentualne błędy źródeł",
+    "kursy": "kursy średnie NBP (EUR, USD, GBP, CHF) – ostatnia tabela",
+    "kurs_eur": "EUR – kurs z dnia roboczego przed każdym dniem (do PIT), 5 lat",
+    "kurs_usd": "USD – jw.", "kurs_gbp": "GBP – jw.", "kurs_chf": "CHF – jw.",
+    "cpi": "inflacja GUS r/r, miesięcznie od 2014", "cpi_mm": "inflacja GUS m/m",
+    "stopa_ref": "stopa referencyjna NBP dla okresów ROR/DOR", "stopa_ref_teraz": "stopa referencyjna NBP teraz",
+    "obligacje": "serie obligacji skarbowych: oprocentowanie 1. okresu, marża, opłata za wykup",
+    "oferta": "bieżąca oferta obligacji skarbowych",
+    "brokerzy": "prowizje XTB, mBank, BOŚ (Bossa), PKO z datami obowiązywania",
+    "limity": "limity wpłat IKE / IKZE", "metale": "kruszce – cena spot zł/oz",
+    "krypto": "BTC, ETH – cena zł", "metale_hist": "kruszce – średnie miesięczne zł/oz",
+}
+
+
+def write_index():
+    """Strona startowa (bez niej adres katalogu w przeglądarce daje 404 na GitHub Pages)."""
+    stamp = (OUT / "meta.txt").read_text() if (OUT / "meta.txt").exists() else ""
+    when = f"{stamp[2:6]}-{stamp[6:8]}-{stamp[8:10]} {stamp[10:12]}:{stamp[12:14]} UTC" if len(stamp) >= 14 else "?"
+    errors = stamp.split("!", 1)[1] if "!" in stamp else ""
+    rows = "".join(f'<tr><td><a href="{n}.txt">{n}.txt</a></td><td>{OPIS.get(n, "")}</td>'
+                   f'<td class="r">{(OUT / f"{n}.txt").stat().st_size:,}</td></tr>'.replace(",", " ")
+                   for n in OPIS if (OUT / f"{n}.txt").exists())
+    status = (f'<p class="err">Nie odświeżyły się: {errors}</p>' if errors else '<p class="ok">✓ wszystkie źródła aktualne</p>')
+    html = f"""<!doctype html><html lang="pl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Portfel – dane</title>
+<style>body{{font:15px/1.5 system-ui,sans-serif;max-width:860px;margin:2rem auto;padding:0 16px;color:#3f3f46;background:#fff}}
+h1{{font-weight:500}}table{{border-collapse:collapse;width:100%}}td,th{{padding:6px 8px;border-bottom:1px solid #eee;text-align:left}}
+.r{{text-align:right;white-space:nowrap}}.ok{{color:#2f855a}}.err{{color:#c53030}}small{{color:#8a8a99}}</style></head><body>
+<h1>Dane dla arkusza „Portfel inwestora”</h1>
+<p>Ostatnia aktualizacja: <b>{when}</b> (odświeżane co godzinę).</p>{status}
+<table><tr><th>Plik</th><th>Zawartość</th><th class="r">Znaków</th></tr>{rows}</table>
+<p><small>Źródła: NBP, GUS, Ministerstwo Finansów (listy emisyjne), Bank Światowy (CC BY 4.0), MFW, gold-api.com.
+Format plików i kod: <a href="https://github.com/0xbartix/portfel-dane">github.com/0xbartix/portfel-dane</a>.</small></p>
+</body></html>"""
+    (OUT / "index.html").write_text(html, encoding="utf-8")
+    (OUT.parent / "index.html").write_text('<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" '
+                                           'content="0; url=v1/"><a href="v1/">Dane – v1</a>', encoding="utf-8")
+
+
 def main(today=None):
     today = today or date.today()
     steps = [("inflacja", lambda: build_cpi(today)), ("stopy NBP", lambda: build_ref(today)),
@@ -183,6 +223,7 @@ def main(today=None):
         traceback.print_exc()
         failed.append("kruszce")
     write("meta.txt", "V1" + datetime.now(timezone.utc).strftime("%Y%m%d%H%M") + ("" if not failed else "!" + ",".join(failed)))
+    write_index()
     if failed:
         print("BŁĘDY:", failed)
     return failed
