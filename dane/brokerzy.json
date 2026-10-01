@@ -1,0 +1,45 @@
+{
+ "_opis": "Prowizje maklerskie od transakcji. Konto: Z = zwykłe, I = IKE, K = IKZE. Rynek: P = polski (PLN, GPW), Z = zagraniczny. Instrument: A = akcje, E = ETF/ETC. Procent prowizji i przewalutowania w %, minimum w zł. Opcjonalnie próg miesięcznego obrotu (EUR, wszystkie rachunki u brokera): od nadwyżki ponad próg pobierana jest dodatkowa prowizja proc_ponad_prog (min. min_ponad_prog_eur EUR). Przewalutowanie dotyczy transakcji w walucie obcej (koszt kursu brokera względem kursu średniego). Reguły z tym samym kluczem nie mogą się nakładać w czasie. Aktualizuj po każdej zmianie tabeli opłat (test sprawdza nakładanie się okresów).",
+ "brokerzy": {
+  "XTB": {"nazwa": "XTB", "tabela_oplat": "https://www.xtb.com/pl/pliki/02.-tabela-oplat-i-prowizji_pl_-clean-1.pdf", "stan_na": "2026-09-30",
+          "uwagi": "0% do 100 000 EUR obrotu miesięcznie na wszystkich rachunkach, powyżej 0,2% (min. 10 EUR) – arkusz zakłada obrót poniżej limitu."},
+  "MBK": {"nazwa": "mBank (eMakler)", "tabela_oplat": "https://pdf.mbank.pl/mbankpl/of/gielda/emakler/taryfa_oplat_i_prowizji_biura_maklerskiego_mbanku_w_ramach_uslugi_emakler_obowiazujaca_od_20.03.2026r.pdf", "stan_na": "2026-03-20",
+          "uwagi": "ETF-y na IKE/IKZE 0% (bez ETF-ów krypto, surowcowych, z dźwignią i short). Przewalutowanie: spread ok. 0,1% wg rankingu marciniwuc.com."},
+  "BOS": {"nazwa": "BOŚ (Bossa)", "tabela_oplat": "https://bossa.pl/sites/b30/files/2026-05/document/Tabela_oplat_i_prowizji_maklerskich_-_rynek_kasowy_0.pdf", "stan_na": "2026-05-08",
+          "uwagi": "ETF-y na IKE/IKZE 0% w promocji do 27.02.2027 (Dyrektor DM może wprowadzić limit). Spread walutowy w promocji do 31.12.2026."},
+  "PKO": {"nazwa": "PKO BP / Pekao (obligacje skarbowe)", "tabela_oplat": "https://www.obligacjeskarbowe.pl/", "stan_na": "2026-10-01",
+          "uwagi": "Obligacje detaliczne kupujesz bez prowizji; opłata za przedterminowy wykup wynika z listu emisyjnego serii."},
+  "INN": {"nazwa": "Inne konto (prowizję wpisujesz sam)", "tabela_oplat": "", "stan_na": "", "uwagi": ""}
+ },
+ "reguly": [
+  {"broker": "XTB", "konta": "ZIK", "rynki": "PZ", "instrumenty": "AE", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.5, "prog_eur_mies": 100000, "proc_ponad_prog": 0.2, "min_ponad_prog_eur": 10},
+
+  {"broker": "MBK", "konta": "Z", "rynki": "P", "instrumenty": "AE", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.39, "min_zl": 5, "przewalutowanie_proc": 0.0},
+  {"broker": "MBK", "konta": "Z", "rynki": "Z", "instrumenty": "AE", "od": "2000-01-01", "do": "2026-03-19", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.1, "do_sprawdzenia": "minimum przed 20.03.2026"},
+  {"broker": "MBK", "konta": "Z", "rynki": "Z", "instrumenty": "AE", "od": "2026-03-20", "do": "9999-12-31", "proc": 0.29, "min_zl": 14, "przewalutowanie_proc": 0.1},
+  {"broker": "MBK", "konta": "IK", "rynki": "P", "instrumenty": "A", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.39, "min_zl": 5, "przewalutowanie_proc": 0.0},
+  {"broker": "MBK", "konta": "IK", "rynki": "Z", "instrumenty": "A", "od": "2000-01-01", "do": "2026-03-19", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.1},
+  {"broker": "MBK", "konta": "IK", "rynki": "Z", "instrumenty": "A", "od": "2026-03-20", "do": "9999-12-31", "proc": 0.29, "min_zl": 14, "przewalutowanie_proc": 0.1},
+  {"broker": "MBK", "konta": "IK", "rynki": "P", "instrumenty": "E", "od": "2000-01-01", "do": "2025-10-31", "proc": 0.39, "min_zl": 5, "przewalutowanie_proc": 0.0, "do_sprawdzenia": "start promocji 0% (przyjęto 11.2025)"},
+  {"broker": "MBK", "konta": "IK", "rynki": "P", "instrumenty": "E", "od": "2025-11-01", "do": "9999-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.0},
+  {"broker": "MBK", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2000-01-01", "do": "2025-10-31", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.1, "do_sprawdzenia": "start promocji 0% (przyjęto 11.2025)"},
+  {"broker": "MBK", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2025-11-01", "do": "9999-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.1},
+
+  {"broker": "BOS", "konta": "ZIK", "rynki": "P", "instrumenty": "A", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.38, "min_zl": 5, "przewalutowanie_proc": 0.0},
+  {"broker": "BOS", "konta": "Z", "rynki": "P", "instrumenty": "E", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.38, "min_zl": 5, "przewalutowanie_proc": 0.0},
+  {"broker": "BOS", "konta": "ZIK", "rynki": "Z", "instrumenty": "A", "od": "2000-01-01", "do": "2026-05-07", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.2},
+  {"broker": "BOS", "konta": "ZIK", "rynki": "Z", "instrumenty": "A", "od": "2026-05-08", "do": "9999-12-31", "proc": 0.29, "min_zl": 14, "przewalutowanie_proc": 0.2, "do_sprawdzenia": "spread walutowy poza promocją (przyjęto 0,2%)"},
+  {"broker": "BOS", "konta": "Z", "rynki": "Z", "instrumenty": "E", "od": "2000-01-01", "do": "2026-05-07", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.2},
+  {"broker": "BOS", "konta": "Z", "rynki": "Z", "instrumenty": "E", "od": "2026-05-08", "do": "9999-12-31", "proc": 0.29, "min_zl": 14, "przewalutowanie_proc": 0.2},
+  {"broker": "BOS", "konta": "IK", "rynki": "P", "instrumenty": "E", "od": "2000-01-01", "do": "2025-10-31", "proc": 0.38, "min_zl": 5, "przewalutowanie_proc": 0.0, "do_sprawdzenia": "start promocji 0% (przyjęto 11.2025)"},
+  {"broker": "BOS", "konta": "IK", "rynki": "P", "instrumenty": "E", "od": "2025-11-01", "do": "2027-02-27", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.0},
+  {"broker": "BOS", "konta": "IK", "rynki": "P", "instrumenty": "E", "od": "2027-02-28", "do": "9999-12-31", "proc": 0.38, "min_zl": 5, "przewalutowanie_proc": 0.0},
+  {"broker": "BOS", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2000-01-01", "do": "2025-10-31", "proc": 0.29, "min_zl": 19, "przewalutowanie_proc": 0.2, "do_sprawdzenia": "start promocji 0% (przyjęto 11.2025)"},
+  {"broker": "BOS", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2025-11-01", "do": "2026-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.1},
+  {"broker": "BOS", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2027-01-01", "do": "2027-02-27", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.2},
+  {"broker": "BOS", "konta": "IK", "rynki": "Z", "instrumenty": "E", "od": "2027-02-28", "do": "9999-12-31", "proc": 0.29, "min_zl": 14, "przewalutowanie_proc": 0.2},
+
+  {"broker": "PKO", "konta": "ZIK", "rynki": "PZ", "instrumenty": "AE", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.0},
+  {"broker": "INN", "konta": "ZIK", "rynki": "PZ", "instrumenty": "AE", "od": "2000-01-01", "do": "9999-12-31", "proc": 0.0, "min_zl": 0, "przewalutowanie_proc": 0.0}
+ ]
+}

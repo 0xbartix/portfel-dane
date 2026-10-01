@@ -1,0 +1,11 @@
+{
+ "_opis": "Roczne limity wpłat (zł). Źródło: obwieszczenia MRPiPS / komunikaty instytucji; 2026 za analizy.pl. Dopisz nowy rok w styczniu.",
+ "limity": {
+  "2021": {"ike": 15777.00, "ikze": 6310.80, "ikze_jdg": 9466.20},
+  "2022": {"ike": 17766.00, "ikze": 7106.40, "ikze_jdg": 10659.60},
+  "2023": {"ike": 20805.00, "ikze": 8322.00, "ikze_jdg": 12483.00},
+  "2024": {"ike": 23472.00, "ikze": 9388.80, "ikze_jdg": 14083.20},
+  "2025": {"ike": 26019.00, "ikze": 10407.60, "ikze_jdg": 15611.40},
+  "2026": {"ike": 28260.00, "ikze": 11304.00, "ikze_jdg": 16956.00}
+ }
+}

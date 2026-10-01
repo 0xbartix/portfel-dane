@@ -1,0 +1,4584 @@
+{
+ "COI0124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/88d9771c-b0fa-41f5-a192-340e2da6b004.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 2.4,
+  "sprzedaz": "2020-01"
+ },
+ "COI0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/17de1ac9-b025-4477-9608-03a9f5893d15.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-01"
+ },
+ "COI0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f9bbe3b9-0ff8-4993-9995-fa90276e3aab.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2022-01"
+ },
+ "COI0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aafffc33-074a-4a1f-88d3-7fb084676d06.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-01"
+ },
+ "COI0128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b42edbf7-eca0-47f7-8101-20ca9e14cfd3.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.65,
+  "sprzedaz": "2024-01"
+ },
+ "COI0129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/82b8540c-29fe-4cba-b0c4-3bdaaae1a611.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2025-01"
+ },
+ "COI0130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1f410411-d97d-4d29-abd9-91e00105d339.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-01"
+ },
+ "COI0224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3a7b83b5-2047-4ec7-9972-511cdb788544.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 2.4,
+  "sprzedaz": "2020-02"
+ },
+ "COI0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2b72d5c0-c44d-430b-b340-26bf4729e8cf.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-02"
+ },
+ "COI0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ba2682da-aa2a-4025-bb9e-7f0c7a5910cd.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 1.8,
+  "sprzedaz": "2022-02"
+ },
+ "COI0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8c4def61-f7a9-4c8b-9292-e7c5b1d3a31e.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-02"
+ },
+ "COI0228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/63fae445-5584-4517-a67b-f060a7617be8.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-02"
+ },
+ "COI0229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9cdf5beb-db79-490c-b25c-f84769c7e216.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2025-02"
+ },
+ "COI0230": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ec39d10f-467b-4dcc-acfe-1e010c111822.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-02"
+ },
+ "COI0324": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/16eafc2e-4c74-4b4f-8ef8-1d74b0f05ca9.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 2.4,
+  "sprzedaz": "2020-03"
+ },
+ "COI0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ae45a297-1e2a-462b-b0d6-89ce10e5374d.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-03"
+ },
+ "COI0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f4d8c698-f213-4fa9-b486-f47b72f51484.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 1.8,
+  "sprzedaz": "2022-03"
+ },
+ "COI0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2320f76f-ee53-4366-beba-df9f227ee4cc.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-03"
+ },
+ "COI0328": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a61aba21-eefb-43ac-82b4-5fbac44b2f2c.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-03"
+ },
+ "COI0329": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d77391e1-c603-45db-9626-c3dc36ccaa8b.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2025-03"
+ },
+ "COI0330": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/35af9a6a-69c5-460a-ac0e-26d0b9913799.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-03"
+ },
+ "COI0424": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b21b83d-fb49-4351-a4d2-030c644e5cac.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 2.4,
+  "sprzedaz": "2020-04"
+ },
+ "COI0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/669e9e61-7a4f-4a55-882f-d3a8bcb9429f.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-04"
+ },
+ "COI0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/169bc010-2c5e-4542-99eb-4add43aa505f.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 2.3,
+  "sprzedaz": "2022-04"
+ },
+ "COI0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1236d1ac-b93d-441e-b783-f3f116b03db4.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-04"
+ },
+ "COI0428": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c9cc6df5-598a-4a03-8df1-98fa5e981aa9.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-04"
+ },
+ "COI0429": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/521e42b5-28d2-4da2-b376-e1d5a9c89bdd.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2025-04"
+ },
+ "COI0430": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ac49bfd6-effb-4573-a9a6-0ff3f7db9349.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-04"
+ },
+ "COI0524": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bb2bc4ff-7ef7-4908-9a03-bd78d2d85b47.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-05"
+ },
+ "COI0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5bf9eb28-29b5-4003-b2a5-eb2e9a7a3090.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-05"
+ },
+ "COI0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6aac6fc5-de45-4fed-a99f-e269a945c1a4.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 3.3,
+  "sprzedaz": "2022-05"
+ },
+ "COI0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/073321b3-e670-462b-9f00-5f6837b1da28.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-05"
+ },
+ "COI0528": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e39c7b1a-e219-4b9c-ab93-fea525c647a1.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-05"
+ },
+ "COI0529": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/597776fd-79f0-4f17-9593-bc4d0f8be0db.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.1,
+  "sprzedaz": "2025-05"
+ },
+ "COI0530": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/02f6b431-92a2-4a84-a7b7-e41671c5c6b8.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-05"
+ },
+ "COI0624": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5ad46295-f07d-44fb-9220-f28dcd991ea7.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-06"
+ },
+ "COI0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8fd44689-01da-4eb1-ba83-e25e9b3d3caa.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-06"
+ },
+ "COI0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/93bbc3a1-b757-4daf-a4fe-6eb29446d149.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 5.5,
+  "sprzedaz": "2022-06"
+ },
+ "COI0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/247a8fa7-b178-4429-bc2c-50bb30a5e478.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-06"
+ },
+ "COI0628": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/25e8edaa-462e-4bf3-b92e-2bd89489b7a2.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-06"
+ },
+ "COI0629": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8a2413a0-e65d-4310-bfea-26b2be492cab.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-06"
+ },
+ "COI0630": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/937c2faa-a48e-4ae2-984a-abcfee7438f1.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-06"
+ },
+ "COI0724": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8f3c58d0-1382-457b-b51d-143ac9175776.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-07"
+ },
+ "COI0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/554a2efb-5a29-404b-9b57-9d1b8e4cdb1e.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-07"
+ },
+ "COI0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5ec87072-2dc9-4427-937d-60922c601651.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 6.0,
+  "sprzedaz": "2022-07"
+ },
+ "COI0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0176da37-cea3-4278-9824-2d4cd9db4980.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-07"
+ },
+ "COI0728": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0529c160-0469-4027-a4c0-7df9f6ba0777.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-07"
+ },
+ "COI0729": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ac1aebeb-e032-4385-8111-6cd07bbd143a.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-07"
+ },
+ "COI0730": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9d2de5f9-ad73-402f-a5f2-a03815efde3e.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-07"
+ },
+ "COI0824": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3411df02-47da-4815-9d88-266f6518c554.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-08"
+ },
+ "COI0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/60c2251e-c166-420d-b3d9-0f75e42b9422.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-08"
+ },
+ "COI0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cba2a3d3-5105-4fd1-91ab-7cfb8a7496a1.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2022-08"
+ },
+ "COI0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2e7861c9-651f-46ea-abb5-fed85959e1e6.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-08"
+ },
+ "COI0828": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cdcc1e5d-3d1f-4271-9de2-c6807f43225c.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.55,
+  "sprzedaz": "2024-08"
+ },
+ "COI0829": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8523400c-818f-4778-bdb9-aaf95d9f0df8.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.75,
+  "sprzedaz": "2025-08"
+ },
+ "COI0830": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3003cc7d-bb13-4008-8479-3793d6426fb4.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-08"
+ },
+ "COI0924": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6d400f30-eb81-400f-8db7-798f5f26bc64.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-09"
+ },
+ "COI0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/54aa1487-1f2a-4961-906d-c3dde4f1395f.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-09"
+ },
+ "COI0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/166a3129-3963-457a-a763-4550db2cbadf.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2022-09"
+ },
+ "COI0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e1486d1c-6361-4954-9fa2-4548941de0a7.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-09"
+ },
+ "COI0928": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0eef1a0e-a6af-400a-8372-8faa322b60ef.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2024-09"
+ },
+ "COI0929": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/eb4d1ca6-9790-49ef-a7a9-26df07385f4f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.75,
+  "sprzedaz": "2025-09"
+ },
+ "COI0930": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/21db12fd-35ec-4cbd-b3f4-28a9a7ae2c7e.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-09"
+ },
+ "COI1024": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e8a8b5ae-98ec-4493-a768-ef6e913e20e6.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-10"
+ },
+ "COI1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/28b8c2bc-e0f4-47eb-a80a-d0dcd2f600a1.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-10"
+ },
+ "COI1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/720d91e5-9803-4d28-9d58-2b3bbef49746.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2022-10"
+ },
+ "COI1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e3de0531-c5dd-4f59-9ddc-7d69bdf5473e.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2023-10"
+ },
+ "COI1028": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4c4f5fd1-eddb-41eb-b5ed-ddbd8f0d25f7.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2024-10"
+ },
+ "COI1029": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/684e8dcd-4b5e-482d-85fb-5883544431a3.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.5,
+  "sprzedaz": "2025-10"
+ },
+ "COI1030": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e156037b-5b0c-40b8-85e1-0b205d4ac395.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-10"
+ },
+ "COI1124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bfe54518-7905-484a-9f87-ba3c61aea121.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-11"
+ },
+ "COI1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9dd25a4a-ea52-46e5-9f0a-b92ee83a0e7c.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-11"
+ },
+ "COI1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/60e40ad4-c2a4-480f-bc37-c0c8c7b86ef3.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2022-11"
+ },
+ "COI1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4e551ade-5e96-4400-ade8-c8a8aaf5c5b8.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2023-11"
+ },
+ "COI1128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/55ffff07-088e-4229-a1d5-30e05bc59bc1.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2024-11"
+ },
+ "COI1129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2db6a8b3-1bbf-4d32-a53b-a93a990aa942.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.25,
+  "sprzedaz": "2025-11"
+ },
+ "COI1224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2654fe2d-cda5-4beb-b34a-dd6fb9999f6b.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2020-12"
+ },
+ "COI1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/23304ea6-a50c-46d4-9d78-ce8eea9383a1.pdf",
+  "marza": 0.75,
+  "oplata": 0.7,
+  "r1": 1.3,
+  "sprzedaz": "2021-12"
+ },
+ "COI1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/891df656-a9d9-4772-9c1b-8a92a6511cfa.pdf",
+  "marza": 1.0,
+  "oplata": 0.7,
+  "r1": 7.0,
+  "sprzedaz": "2022-12"
+ },
+ "COI1227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3997f69a-050f-4cf5-91cf-d26fd8583ed0.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2023-12"
+ },
+ "COI1228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0d8f7539-0647-4a93-8cbe-6afa61eaf700.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2024-12"
+ },
+ "COI1229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b7834e59-f7f6-4c5d-9db8-b53043c0086c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2025-12"
+ },
+ "DOR0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/08020cb1-c285-4b81-a32c-927c4d994b6a.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-01"
+ },
+ "DOR0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a2e86429-2b58-4deb-815d-882c9a9edcb0.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.4,
+  "sprzedaz": "2024-01"
+ },
+ "DOR0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be0b3a68-ffa7-4c34-a2ad-4f3879db54fe.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2025-01"
+ },
+ "DOR0128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9a5725e6-90f7-4322-868b-7398e7abda1e.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.4,
+  "sprzedaz": "2026-01"
+ },
+ "DOR0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7eee0eab-d18d-4466-bb4d-99b8e73f6dd4.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-02"
+ },
+ "DOR0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/005e4809-5ace-4ab6-8b40-aa61f08fafa2.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.3,
+  "sprzedaz": "2024-02"
+ },
+ "DOR0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3cc40126-37b6-4697-9be7-00cddcdf18ae.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2025-02"
+ },
+ "DOR0228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6b146c70-a85b-44cf-83e3-5f89f4a14965.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.4,
+  "sprzedaz": "2026-02"
+ },
+ "DOR0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/08e418dc-e148-4a92-91ae-b703a755ea74.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-03"
+ },
+ "DOR0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4bcb3458-28f6-4b81-b120-676035d45a96.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.3,
+  "sprzedaz": "2024-03"
+ },
+ "DOR0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9579a21d-5594-4d55-ade6-7d2445105b1a.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2025-03"
+ },
+ "DOR0328": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3ff94949-d36b-4b88-bba1-c90bc18d516f.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.4,
+  "sprzedaz": "2026-03"
+ },
+ "DOR0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/028ac276-0af4-4ff6-9548-c96a8163f722.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-04"
+ },
+ "DOR0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8ff0ab48-b99c-483d-92c9-447fb32cf725.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.3,
+  "sprzedaz": "2024-04"
+ },
+ "DOR0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/399b13c8-7015-44ce-8c4a-8e88345e8933.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2025-04"
+ },
+ "DOR0428": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/83a245e0-d4d7-4569-8f93-dbed3eae755b.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-04"
+ },
+ "DOR0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/52f411b0-c720-48b6-8802-d245b00d9eb1.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-05"
+ },
+ "DOR0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/201a6e98-a292-4718-9165-cac6e5b6b80c.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.3,
+  "sprzedaz": "2024-05"
+ },
+ "DOR0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f2d25f9a-4280-48c3-bf2f-1ea2c7372568.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2025-05"
+ },
+ "DOR0528": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8ef8583f-2502-42aa-85d0-95ecb956dad6.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-05"
+ },
+ "DOR0624": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/49a00307-242e-4d53-be55-f242c5768bc8.pdf",
+  "marza": 0.25,
+  "oplata": 0.7,
+  "r1": 5.5,
+  "sprzedaz": "2022-06"
+ },
+ "DOR0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5ee5e380-82ac-471f-ad63-670f29b4ad4c.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-06"
+ },
+ "DOR0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/37e2b04f-5fcd-4fe0-b07b-1e9787b0bd60.pdf",
+  "marza": 0.35,
+  "oplata": 0.7,
+  "r1": 6.15,
+  "sprzedaz": "2024-06"
+ },
+ "DOR0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/83ceb573-6519-45bc-8bf1-2e779671fdac.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.4,
+  "sprzedaz": "2025-06"
+ },
+ "DOR0628": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5ec1dfd3-4bfe-4f0a-a976-04d9784958aa.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-06"
+ },
+ "DOR0724": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/93f6c3a4-2f3f-45d8-9092-1380753a383a.pdf",
+  "marza": 0.25,
+  "oplata": 0.7,
+  "r1": 6.25,
+  "sprzedaz": "2022-07"
+ },
+ "DOR0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3deeb696-e01a-4f16-bb50-f0317fd3d3eb.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-07"
+ },
+ "DOR0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1da31ca3-5920-4cb8-88d2-3e9a9faed0c8.pdf",
+  "marza": 0.35,
+  "oplata": 0.7,
+  "r1": 6.15,
+  "sprzedaz": "2024-07"
+ },
+ "DOR0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/44f84b1e-bed9-43f7-937b-fb65814a759f.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.4,
+  "sprzedaz": "2025-07"
+ },
+ "DOR0728": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4ed06b60-631e-4140-a124-671ae4d8e4b9.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-07"
+ },
+ "DOR0824": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b8e0a0d3-165a-43eb-8dc7-d9f3d6cb7bba.pdf",
+  "marza": 0.25,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2022-08"
+ },
+ "DOR0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/04cf83c6-0bf4-4a36-85fa-42c1ade00ddd.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-08"
+ },
+ "DOR0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cd742a3f-6d92-48d8-bb73-e22652b86365.pdf",
+  "marza": 0.35,
+  "oplata": 0.7,
+  "r1": 6.15,
+  "sprzedaz": "2024-08"
+ },
+ "DOR0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0b1ec8fc-d1b0-4398-a16f-98548e3b87a8.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.15,
+  "sprzedaz": "2025-08"
+ },
+ "DOR0828": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/eaac2bdc-34d5-4754-9866-673cb3508c65.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-08"
+ },
+ "DOR0924": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0d3795ec-9284-4e5f-840d-c32b63d54397.pdf",
+  "marza": 0.25,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2022-09"
+ },
+ "DOR0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fa544e77-a729-43a6-affe-1e016fe4d4e9.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-09"
+ },
+ "DOR0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/73e83cad-9c70-4593-9438-faf67fd757a6.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2024-09"
+ },
+ "DOR0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fcbcb822-3353-40c2-8576-39bb26bf121e.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.15,
+  "sprzedaz": "2025-09"
+ },
+ "DOR0928": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/af0e7a4e-d836-465a-b7e9-8f26f727ff33.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-09"
+ },
+ "DOR1024": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/daf9171a-9f99-4b69-bf11-f55a3a8746c4.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-10"
+ },
+ "DOR1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1bf64510-95f1-4932-8d2e-1b5b19ecb058.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2023-10"
+ },
+ "DOR1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/65e71d28-0e41-4854-a5b1-43b8d3e04480.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2024-10"
+ },
+ "DOR1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/53f3badc-bb72-4e55-b9e6-b3a5f94537ee.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.9,
+  "sprzedaz": "2025-10"
+ },
+ "DOR1028": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d4585b0f-349e-42b0-a399-a43051310cc3.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-10"
+ },
+ "DOR1124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fa1f52f4-b5f9-4bdd-939a-c92c84428e15.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-11"
+ },
+ "DOR1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be0fc3cd-3c6f-44a1-b962-56a59ec61652.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2023-11"
+ },
+ "DOR1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f8d82fb0-b9d8-4610-b094-01bae9bc583e.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2024-11"
+ },
+ "DOR1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/375bb7a4-d76f-4dd8-b5d0-89d876284ce3.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.65,
+  "sprzedaz": "2025-11"
+ },
+ "DOR1224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fd4643d0-9e5c-4f82-956f-3e94b4ac6f85.pdf",
+  "marza": 0.1,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-12"
+ },
+ "DOR1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a154032d-5679-4da2-a1bc-762e444b5e96.pdf",
+  "marza": 0.5,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2023-12"
+ },
+ "DOR1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8db84e06-fb99-4a0a-b375-9f5908a82987.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 5.9,
+  "sprzedaz": "2024-12"
+ },
+ "DOR1227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/57b2939d-24bf-4a13-b6e8-cd230cbaed2e.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.4,
+  "sprzedaz": "2025-12"
+ },
+ "EDO0124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/114c7253-b60d-4aa9-b313-38f9e9bffd5f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-01"
+ },
+ "EDO0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ed492b9c-fb29-4097-ae2a-6f986d025e64.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2015-01"
+ },
+ "EDO0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f126872a-b7e5-418a-9c8b-9635415fa321.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-01"
+ },
+ "EDO0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4455d201-4af0-4cd1-a670-b6a77d912e7b.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-01"
+ },
+ "EDO0128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/59b4d071-7e6a-48ec-9144-89863d82c398.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-01"
+ },
+ "EDO0129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/48b31242-1e81-4dea-a80c-1b6fb20d34c4.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-01"
+ },
+ "EDO0130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fd562ffd-1c4a-44b6-aad9-1d6c5c762b3d.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2020-01"
+ },
+ "EDO0131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f3a3d13f-9df3-4e4f-b368-b9a18ef2475a.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-01"
+ },
+ "EDO0132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e03dfcbe-49f4-49c0-9c78-6a3c7b2a6662.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2022-01"
+ },
+ "EDO0133": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8d7c804b-a57f-4194-a132-b032b9972255.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-01"
+ },
+ "EDO0134": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b85cc3f-c585-4b76-8491-636f8fa0475d.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.9,
+  "sprzedaz": "2024-01"
+ },
+ "EDO0135": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9f82dd29-a6a7-4509-a1ec-01b23ae290cc.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2025-01"
+ },
+ "EDO0136": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8504f6b6-a570-41a9-8c5f-b659d3327493.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-01"
+ },
+ "EDO0224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2cb95247-4961-4159-92c5-75d0da7755c2.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-02"
+ },
+ "EDO0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/59414e29-830d-49c8-b7b9-04d2f1e7ace0.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2015-02"
+ },
+ "EDO0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/746c371e-2d25-4fde-9d4b-d5af26655178.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-02"
+ },
+ "EDO0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b185d28b-7861-44d4-b2b1-41d675229772.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-02"
+ },
+ "EDO0228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8e79cdcc-b147-4fb5-b6ee-b558bc6b79a0.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-02"
+ },
+ "EDO0229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/65dadaf8-3ed7-4c57-ac0f-b5ce6fb2577d.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-02"
+ },
+ "EDO0230": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/55974d98-b31a-4223-b2c7-cfc7923a6dbc.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2020-02"
+ },
+ "EDO0231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/198aa3f3-54dc-44cc-b1b7-f5cebd5ef174.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-02"
+ },
+ "EDO0232": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bd2060ee-2107-43d3-893d-399e509111a0.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 2.2,
+  "sprzedaz": "2022-02"
+ },
+ "EDO0233": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/004ea155-df02-4e09-a4ab-bfa9de6b49de.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-02"
+ },
+ "EDO0234": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/97c09b6c-23b3-4bbc-9d25-d5d680b7a945.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-02"
+ },
+ "EDO0235": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2499cbc2-1f8b-4210-a92b-ce1eb9ba5568.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2025-02"
+ },
+ "EDO0236": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5fa00154-8cfc-437d-89e2-0310c33f690c.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-02"
+ },
+ "EDO0324": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d9a6b712-3a2c-49a9-a379-5b0d8d8a1216.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-03"
+ },
+ "EDO0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2230de7e-28d5-4a1e-953b-7ccbb37629c8.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2015-03"
+ },
+ "EDO0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/30fae402-39f2-44fa-be71-d3721ebb3073.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-03"
+ },
+ "EDO0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/838c105e-b57d-4694-82f0-70e0d86ecdf1.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-03"
+ },
+ "EDO0328": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/daa0a12c-db63-4173-aa01-861f96c5301f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-03"
+ },
+ "EDO0329": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/20049c79-124b-4411-8327-325f0aa95bc6.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-03"
+ },
+ "EDO0330": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c3c68b99-293d-4b44-810e-f5ab6f2ad64b.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2020-03"
+ },
+ "EDO0331": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/08a3c237-3d78-4f1c-925b-250bb585ab2f.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-03"
+ },
+ "EDO0332": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/82f9ee44-93cf-456b-a29c-15daf4711f1e.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 2.2,
+  "sprzedaz": "2022-03"
+ },
+ "EDO0333": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/099c6f0c-f417-4213-b332-a620782031b0.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-03"
+ },
+ "EDO0334": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2ab1b7d7-d0ed-4469-923e-aafaebd95309.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-03"
+ },
+ "EDO0335": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/629bd958-483e-4ca5-8179-20f43d1885b1.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2025-03"
+ },
+ "EDO0336": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aed6dc12-537e-4ecd-8f75-13d860cdf156.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-03"
+ },
+ "EDO0424": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6da786ef-ede0-4496-b814-35bf53842670.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-04"
+ },
+ "EDO0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/65fb1830-ea48-4a6f-9c0e-08823ed123e3.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-04"
+ },
+ "EDO0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a93f34b6-44c9-4741-96c0-abc29d988c12.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-04"
+ },
+ "EDO0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9e2c62fa-9264-4022-9634-5585dfbbbb22.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-04"
+ },
+ "EDO0428": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d5369f1f-0771-4bbc-85f5-ef8d9bdd0306.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-04"
+ },
+ "EDO0429": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f406a486-ec10-439e-b121-3c5479dd53a8.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-04"
+ },
+ "EDO0430": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/64889330-aaf7-4e4c-be4e-4b9d904cd93c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2020-04"
+ },
+ "EDO0431": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c9c11e75-b4a7-4d0f-ae5e-afe981f71d90.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-04"
+ },
+ "EDO0432": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/57369934-89f1-4ebf-99a2-27859d73050d.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2022-04"
+ },
+ "EDO0433": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/04a7d7d2-bf06-4674-bc2b-cb0bf07250bd.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-04"
+ },
+ "EDO0434": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/69d65764-6378-4838-b4bf-632b7130c191.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-04"
+ },
+ "EDO0435": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ff7d04db-3334-4e08-9a82-867a1a944dcc.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2025-04"
+ },
+ "EDO0436": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b863abd6-9d61-4079-a044-116ab683f27a.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-04"
+ },
+ "EDO0524": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fbb1a199-977b-47cd-8c13-b8decaebb5f0.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-05"
+ },
+ "EDO0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4be55b09-70db-42e4-a5e9-993c3eeb0b80.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-05"
+ },
+ "EDO0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a8f8c743-0991-43a1-a29f-b40aba9678ec.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-05"
+ },
+ "EDO0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/45edf277-890d-481e-af7e-9b5384b890aa.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-05"
+ },
+ "EDO0528": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ddfbcdf1-e0a5-495c-99a7-9095a0faae5f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-05"
+ },
+ "EDO0529": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fdda46d8-b9b3-4841-9ba8-b078fdbb6bec.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-05"
+ },
+ "EDO0530": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b82b62b5-2d31-44b4-b4e0-2aed5511d3db.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-05"
+ },
+ "EDO0531": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2705dd67-c45f-4fd8-99b5-445e573a9f95.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-05"
+ },
+ "EDO0532": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/46a3f5ab-e10a-4e8d-b10d-baa6c973d8ec.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 3.7,
+  "sprzedaz": "2022-05"
+ },
+ "EDO0533": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6c9e06b7-24b9-4980-be24-2707a6bc5e67.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-05"
+ },
+ "EDO0534": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/dcbd0b2b-b6dd-4a09-b869-6a3bcf39a899.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-05"
+ },
+ "EDO0535": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b40f248c-42da-4155-bc06-2f11974c71d5.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.35,
+  "sprzedaz": "2025-05"
+ },
+ "EDO0536": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f3d7c03e-d6bf-42e2-8688-5f4511c8d945.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-05"
+ },
+ "EDO0624": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/97717958-8d19-4ada-a77b-e4c51379a748.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-06"
+ },
+ "EDO0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/295ad4e6-999b-48a5-ad1a-e585b0f21bba.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-06"
+ },
+ "EDO0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ff5ba0f1-fa5a-4272-9635-a686057aa52a.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-06"
+ },
+ "EDO0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9864bfd2-ab2b-4b50-9bfd-1eefbc196698.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-06"
+ },
+ "EDO0628": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/697edf8e-575a-4ee0-8787-7b93044f91e6.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-06"
+ },
+ "EDO0629": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9868c73c-1543-4936-b7e8-131c0acf746c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-06"
+ },
+ "EDO0630": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bb2e80b7-e603-4751-9658-e6a01827f7c9.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-06"
+ },
+ "EDO0631": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/88811761-1281-4c01-a35a-9e0666dd01ea.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-06"
+ },
+ "EDO0632": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/389becff-04e0-4ba9-bd20-094f2c6a946a.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 5.75,
+  "sprzedaz": "2022-06"
+ },
+ "EDO0633": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b914d2c8-10af-444d-9a0d-793315936277.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-06"
+ },
+ "EDO0634": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aa6b3ebe-8a25-4af1-8140-15af92580edc.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-06"
+ },
+ "EDO0635": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b7c826a1-a9d3-4afb-96fd-03c161f424a7.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.25,
+  "sprzedaz": "2025-06"
+ },
+ "EDO0636": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b391601c-ec66-46b1-beae-dc6d7219bbc2.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-06"
+ },
+ "EDO0724": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f0153f18-4fce-4259-8ec4-531cd720a52e.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2014-07"
+ },
+ "EDO0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d781cd50-1afd-4db8-8c61-775b780af22c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-07"
+ },
+ "EDO0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/446c2c4d-419c-4982-b2e9-32a28fff9ebe.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-07"
+ },
+ "EDO0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a598d5a0-a585-47a9-ab38-71ed69322806.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-07"
+ },
+ "EDO0728": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b3b255d2-3d45-43c4-9ebd-d28fc4eb29cb.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-07"
+ },
+ "EDO0729": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a82bfbf0-00f7-4a4c-9d69-b62e28432f2c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-07"
+ },
+ "EDO0730": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8eba8b69-1e04-4337-bf45-fc99adaa6d8e.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-07"
+ },
+ "EDO0731": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b49c5ba9-f0c4-44e5-84ed-f5d9af71e72e.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-07"
+ },
+ "EDO0732": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8e0896d0-d378-4676-9387-a64c49ea4510.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 6.25,
+  "sprzedaz": "2022-07"
+ },
+ "EDO0733": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a50e7b9c-4602-41f5-9084-544c2d67f46e.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-07"
+ },
+ "EDO0734": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1c90db2f-4e3b-4028-bad8-203925a3fd01.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-07"
+ },
+ "EDO0735": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/881087d0-ab08-4839-9e30-37c72c59c378.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.25,
+  "sprzedaz": "2025-07"
+ },
+ "EDO0736": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/72439152-e514-44f7-8017-7848904cfd79.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-07"
+ },
+ "EDO0824": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b27a7738-24ed-478a-a86c-dba3131b0c84.pdf",
+  "marza": 0.0,
+  "oplata": null,
+  "r1": 4.0,
+  "sprzedaz": "2014-08"
+ },
+ "EDO0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2dc9ab5f-e013-4e09-b57a-df81fadb7229.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-08"
+ },
+ "EDO0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bbed9e44-faca-41d4-bfdb-2b79df20e4c2.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-08"
+ },
+ "EDO0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/43c308c0-2f26-437e-b26b-08c3fab8084d.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-08"
+ },
+ "EDO0828": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a99cb221-77d6-49e5-b849-e4f79d5f01ab.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-08"
+ },
+ "EDO0830": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3a78917a-8739-4336-9fd6-3e278813291b.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-08"
+ },
+ "EDO0831": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/49c4d8dc-e5a6-4fe4-a598-faec954e4ae8.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-08"
+ },
+ "EDO0832": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9a4fc70b-1a91-4278-9e8f-b36085422ebb.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 6.75,
+  "sprzedaz": "2022-08"
+ },
+ "EDO0833": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b2c73fa-eb02-42f5-b124-81b4942f6138.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-08"
+ },
+ "EDO0834": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a8d7d23a-1d45-4821-9c70-0bb8cd2674e5.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-08"
+ },
+ "EDO0835": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6e38801e-29b9-4539-b63c-b490f56e9abd.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-08"
+ },
+ "EDO0836": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e1c62af6-021b-492a-b8cb-15336a05a72c.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-08"
+ },
+ "EDO0924": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0e5b04cf-85c4-4e18-b211-0a7cfe842b62.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.6,
+  "sprzedaz": "2014-09"
+ },
+ "EDO0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/39e7e5f9-6808-4510-b69a-4b568ed180ea.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-09"
+ },
+ "EDO0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c49630ae-9a0d-464d-93c4-769e8ff6db1f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-09"
+ },
+ "EDO0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/40455bd3-f31a-4c3b-a530-7c95154c7bc0.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-09"
+ },
+ "EDO0928": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/db48efa3-7393-4eae-8d9d-90e615d31405.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2018-09"
+ },
+ "EDO0929": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/02168d16-8a9e-457c-97a1-a2779786a34f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-09"
+ },
+ "EDO0930": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/31b99a1c-7ff3-4165-b651-8f4d49a1a463.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-09"
+ },
+ "EDO0931": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3ccccb63-9f1a-46da-b2c8-1f7918da3a97.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-09"
+ },
+ "EDO0932": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4fade52a-510a-4f4a-9c77-0f58bd752a2a.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 6.75,
+  "sprzedaz": "2022-09"
+ },
+ "EDO0933": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1154c057-68ba-4918-adb1-7760f22ef570.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-09"
+ },
+ "EDO0934": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d76b6f32-7da7-4852-b949-846cca1530a1.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2024-09"
+ },
+ "EDO0935": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/05b2ac75-f9f0-47b1-b802-553f034308e0.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-09"
+ },
+ "EDO0936": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9dc0862c-b074-481a-9e90-f28b14969fb9.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-09"
+ },
+ "EDO1024": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/98da4552-e114-4ca3-aada-60165ebb24fb.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.3,
+  "sprzedaz": "2014-10"
+ },
+ "EDO1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cd0a3ec2-be90-42ca-af0d-7b606954eca8.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-10"
+ },
+ "EDO1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f993d97c-b836-4fca-9375-f436de7b2a89.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-10"
+ },
+ "EDO1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bab96ae7-45d8-4cb0-8b66-a75e2756d9af.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-10"
+ },
+ "EDO1029": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4256cd58-8855-4202-b324-197ba34f7fe1.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-10"
+ },
+ "EDO1030": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/14abdd7e-97c4-4c02-87bf-96f20db8c16c.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-10"
+ },
+ "EDO1031": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/79c8a54a-de9c-45d5-ab09-60dfb8aebc0d.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-10"
+ },
+ "EDO1032": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/36e1eb2c-08d5-4a24-8599-0262b9aa9007.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2022-10"
+ },
+ "EDO1033": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/543276f4-32cd-4a4b-86d2-42b7692350ef.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-10"
+ },
+ "EDO1034": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/61df8ec2-5bd6-4b6c-a3f5-df5be2bcc611.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2024-10"
+ },
+ "EDO1035": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b7827903-2323-40b0-8815-c1f0948f3575.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-10"
+ },
+ "EDO1036": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4f5f6353-fdcd-4b7e-b44f-63088098c534.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-10"
+ },
+ "EDO1124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d49e1f66-816e-4fe7-9dcf-a55e74878f6c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2014-11"
+ },
+ "EDO1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a85f03be-c275-4e8f-be84-05e88020f411.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2016-11"
+ },
+ "EDO1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b0cae710-10c0-4ace-a778-b4da08db1a09.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-11"
+ },
+ "EDO1129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/979c0d3f-f6cb-4f5b-8465-28eed1199f64.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-11"
+ },
+ "EDO1130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d7231005-d026-46c5-b786-9b598ee8d4cc.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-11"
+ },
+ "EDO1131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/30c61cf7-aa76-45c0-9b71-5735bcd80881.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-11"
+ },
+ "EDO1132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/312bffd5-c574-4314-b19b-ce4f8df2c989.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2022-11"
+ },
+ "EDO1133": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/06c5b8f3-a5eb-4ac7-9e81-dd0516b104cd.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 7.0,
+  "sprzedaz": "2023-11"
+ },
+ "EDO1134": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e389865a-168a-47e7-8482-55cc7954c187.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2024-11"
+ },
+ "EDO1135": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b85f9a20-ff71-4838-9014-6ab14ffc54e0.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.75,
+  "sprzedaz": "2025-11"
+ },
+ "EDO1224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bbd54e3f-19ad-4c71-9199-745d037b36ba.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2014-12"
+ },
+ "EDO1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fc268b4d-897b-46a7-b4b7-f6537ce9fee0.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2015-12"
+ },
+ "EDO1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/03c62e58-b4b2-4f98-ab94-a2fdf66d461f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2016-12"
+ },
+ "EDO1227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/49480c0a-5ee8-4efe-855c-9fa6d2e3cfd6.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2017-12"
+ },
+ "EDO1229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e91c1f86-e21e-48ff-ac01-23f38e0d019e.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.7,
+  "sprzedaz": "2019-12"
+ },
+ "EDO1230": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9bb8a3e4-1cb0-4cda-9baf-49b57ad4b922.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2020-12"
+ },
+ "EDO1231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fc735428-c2cb-4cdd-bda2-fb0b2604e101.pdf",
+  "marza": 1.0,
+  "oplata": 2.0,
+  "r1": 1.7,
+  "sprzedaz": "2021-12"
+ },
+ "EDO1232": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e11d119e-b181-4c41-b6a5-c9e77c281412.pdf",
+  "marza": 1.25,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2022-12"
+ },
+ "EDO1233": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/39000e85-28eb-456b-ab78-defeb35810ec.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 7.0,
+  "sprzedaz": "2023-12"
+ },
+ "EDO1234": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/664da673-6c2c-4277-b4bc-d2025c0152ef.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 6.55,
+  "sprzedaz": "2024-12"
+ },
+ "EDO1235": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/92c4bb9d-2e41-40c4-93d7-5c6015d2e691.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2025-12"
+ },
+ "OTS0122": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/181b042c-5402-460d-b309-6ac3f428967f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-10"
+ },
+ "OTS0123": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7dd30d76-406a-4a62-983a-d922e50fb958.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-10"
+ },
+ "OTS0124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b2b26c0-6776-4b80-ac27-81459b83985f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-10"
+ },
+ "OTS0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3fbb6ee1-1a99-4f61-86bf-8e415e659ca1.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-10"
+ },
+ "OTS0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1b6dd1ad-cf61-483d-bffd-e78cee404e95.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.75,
+  "sprzedaz": "2025-10"
+ },
+ "OTS0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4695413e-860f-4363-afb4-cb37f08e4815.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-10"
+ },
+ "OTS0222": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5e9c8bd3-5a94-4ba8-90bc-120aa0e5ca76.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-11"
+ },
+ "OTS0223": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c949eafe-f468-4516-9e7f-c4b67b357080.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-11"
+ },
+ "OTS0224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ebd7d58c-05a3-4b53-9c87-55c824fd7d43.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-11"
+ },
+ "OTS0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1ff3d304-4575-4c5f-b85c-be14ffc6b772.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-11"
+ },
+ "OTS0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/61feec23-35d5-40a9-b62e-ce3f3fe6b52c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.75,
+  "sprzedaz": "2025-11"
+ },
+ "OTS0322": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be2d66e3-4afc-44b0-8326-c20d0a1f76a0.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-12"
+ },
+ "OTS0323": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cd5c69c0-c37f-4e8b-a6f7-ee779459c494.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-12"
+ },
+ "OTS0324": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d8796044-aee9-408a-9ac4-22660436c1a7.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-12"
+ },
+ "OTS0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4ffb6a3f-2218-4124-bd61-f06f31b00773.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-12"
+ },
+ "OTS0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e8e3797f-cff9-4e0b-b950-fecb198dd163.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.5,
+  "sprzedaz": "2025-12"
+ },
+ "OTS0421": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0417b7c2-4dcb-4971-ace6-c2ca602a531f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-01"
+ },
+ "OTS0422": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a982dbcf-96e4-4bb2-89b2-469381109b33.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2022-01"
+ },
+ "OTS0423": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6d5e245b-c4de-47d6-9087-2e45335e7c88.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-01"
+ },
+ "OTS0424": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3227e2e0-2615-4303-be9a-6159114d6176.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-01"
+ },
+ "OTS0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ca08c19c-21bb-492a-bbb1-c614cb0c48f7.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-01"
+ },
+ "OTS0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/86ed2715-f46b-4962-9264-33b30d3fa91e.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.5,
+  "sprzedaz": "2026-01"
+ },
+ "OTS0521": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c49899cc-b486-49c3-a9fa-0a8c597e5c16.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-02"
+ },
+ "OTS0522": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cd714803-d9d0-41e1-a455-1a7d8f3c69e2.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 1.0,
+  "sprzedaz": "2022-02"
+ },
+ "OTS0523": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/47077739-da6f-4886-b9f6-dfde266615f1.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-02"
+ },
+ "OTS0524": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/165212d4-c62b-4c03-b0ff-0dece1452460.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-02"
+ },
+ "OTS0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/93793034-ae1a-440a-8a2a-7c706d31a4ce.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-02"
+ },
+ "OTS0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e02f081b-bd84-4dbb-ba85-c54f761c1f5b.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.5,
+  "sprzedaz": "2026-02"
+ },
+ "OTS0621": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/438b2835-f0c4-4871-9f86-da53604ce898.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-03"
+ },
+ "OTS0622": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b7dd5ef-70e1-4f18-8807-88ee6248f794.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 1.0,
+  "sprzedaz": "2022-03"
+ },
+ "OTS0623": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ffbfdbf4-fb97-442a-aa4b-471925dbd57f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-03"
+ },
+ "OTS0624": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c5e0e7e9-3d71-4047-8cc6-59d57937929c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-03"
+ },
+ "OTS0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/386364e4-30d5-40c8-a383-17f489c49f7a.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-03"
+ },
+ "OTS0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aad16f13-6cbd-40b3-8fa7-e5b1ec209c51.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.5,
+  "sprzedaz": "2026-03"
+ },
+ "OTS0721": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/47bd1b4c-33d5-4897-a9ac-66413de3ac6c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-04"
+ },
+ "OTS0722": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/85ce4afd-a934-4501-947f-dd8cc5ca27eb.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 1.5,
+  "sprzedaz": "2022-04"
+ },
+ "OTS0723": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9daf7235-0fb5-42a0-8d60-61562b1c2cdb.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-04"
+ },
+ "OTS0724": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/117fd6ed-b180-4cbb-88a4-607d407b7736.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-04"
+ },
+ "OTS0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3cdc8d66-6b58-41d7-bf3f-126c81d84b89.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-04"
+ },
+ "OTS0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d1f2844f-6e20-4813-b1d1-cf4810a4e726.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-04"
+ },
+ "OTS0821": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c39983ec-6755-4c1d-b2d4-6faa612edd52.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-05"
+ },
+ "OTS0822": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4aaec447-2647-4db1-9f6a-8fae0de5391f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 1.5,
+  "sprzedaz": "2022-05"
+ },
+ "OTS0823": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2aafcb9d-c385-434a-9b2b-7e2fa473c351.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-05"
+ },
+ "OTS0824": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f6497968-2cb7-46da-9dcb-8912f7cd3e3c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-05"
+ },
+ "OTS0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b21b318c-3dc3-4388-97fe-617f776ff2ce.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-05"
+ },
+ "OTS0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e1e31fdd-23fa-4101-96bb-cf7e661be04a.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-05"
+ },
+ "OTS0921": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1e2b8c86-34ff-48e7-b416-4ba596acd97e.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-06"
+ },
+ "OTS0922": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/285b6dd0-6b22-4cb5-8841-b4a34e818de0.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-06"
+ },
+ "OTS0923": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/05ff0fb8-ce88-478d-87e2-5318eec6770c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-06"
+ },
+ "OTS0924": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c23ed67c-2682-4553-a54d-925aba03317a.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-06"
+ },
+ "OTS0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/375c427e-060b-45b6-b720-2d9b365fab55.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-06"
+ },
+ "OTS0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0af96200-4544-41f9-bbe6-656d7461b7ed.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-06"
+ },
+ "OTS1021": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1f8bdbc7-6e4b-44cf-84af-5217217f788b.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-07"
+ },
+ "OTS1022": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0430c10a-65ef-464b-9622-4d969814de94.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-07"
+ },
+ "OTS1023": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/42a94f7d-76b9-41b4-b2bf-dd03b521233c.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-07"
+ },
+ "OTS1024": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1bc0144a-75e9-4de2-acdd-567063467c5d.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-07"
+ },
+ "OTS1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/84f46d4c-e3a5-40cb-b6d0-c28e112dac55.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-07"
+ },
+ "OTS1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1d7028fb-4945-464a-9074-6002da96dd49.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-07"
+ },
+ "OTS1121": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/91b47935-8149-4424-a76b-2dcefa44d97e.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-08"
+ },
+ "OTS1122": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/85d177e3-aa20-4c01-80cd-91f623f1e781.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-08"
+ },
+ "OTS1123": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5f60a98d-0c75-477b-b8fd-9887c62d1d4f.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-08"
+ },
+ "OTS1124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5e416a1e-aa85-4033-ba28-3b03a103ce44.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-08"
+ },
+ "OTS1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/08c5518e-013c-4c1f-acba-ffb245e1bcdc.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-08"
+ },
+ "OTS1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/91bfd7cb-d1b0-463e-83d3-30a223f0b8a0.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-08"
+ },
+ "OTS1221": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/de370236-a33e-4d1c-9856-f421121725b1.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 0.5,
+  "sprzedaz": "2021-09"
+ },
+ "OTS1222": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1d2fd6bb-9e20-41de-b6e5-a733065856a1.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2022-09"
+ },
+ "OTS1223": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f1ff20e2-a441-4c67-b137-f8c7a1b2dda6.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2023-09"
+ },
+ "OTS1224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3887f150-eff3-4b68-a336-8448e49a11e3.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2024-09"
+ },
+ "OTS1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0b01c0f2-6fdf-457f-8bba-1f1309256fc1.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 3.0,
+  "sprzedaz": "2025-09"
+ },
+ "OTS1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/778f24eb-e13d-4d64-9b59-93a64c3ae9d2.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-09"
+ },
+ "ROD0131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/419c738b-1d3e-4af7-b5a4-1ce0647d2970.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-01"
+ },
+ "ROD0132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5a3a4334-4e58-41ce-95dd-df45c7f166d1.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2020-01"
+ },
+ "ROD0133": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6956574d-6208-4809-8900-6456a003a383.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-01"
+ },
+ "ROD0134": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/112079fc-5a09-4cdf-b0a4-91c867f7a6aa.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2022-01"
+ },
+ "ROD0135": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2e4218a6-50e4-4457-85ab-bf821d72aeae.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-01"
+ },
+ "ROD0136": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d494a24b-2a44-49c4-bdc1-f2908b5219d8.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.15,
+  "sprzedaz": "2024-01"
+ },
+ "ROD0137": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/73061c45-2399-478e-b0be-2e87ade441f2.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2025-01"
+ },
+ "ROD0138": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b8fc346e-02ce-4eed-8fbe-a933d8337674.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.85,
+  "sprzedaz": "2026-01"
+ },
+ "ROD0231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/71fcea20-3d26-410e-88e9-204acb9f4941.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-02"
+ },
+ "ROD0232": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8a331923-078a-4418-827e-2d4e7088479e.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2020-02"
+ },
+ "ROD0233": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3c2d0711-2d1c-4c6f-bc42-9bd24605307a.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-02"
+ },
+ "ROD0234": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/710c2880-13d1-4545-9f86-562797e51338.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2022-02"
+ },
+ "ROD0235": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4bb35a0f-44d6-4970-b56c-d82379b0ff22.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-02"
+ },
+ "ROD0236": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/190a4064-5953-4fcd-b4fb-c02cf09b7928.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-02"
+ },
+ "ROD0237": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f4258291-4d27-48a1-a80b-87efc221ee71.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2025-02"
+ },
+ "ROD0238": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/279c2080-9b06-4db7-a788-f654048bb764.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.85,
+  "sprzedaz": "2026-02"
+ },
+ "ROD0331": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/43308dd8-2553-449b-9cab-34332e30409a.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-03"
+ },
+ "ROD0332": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ef80c0a2-2aaa-4a09-b448-b3f311ea7e19.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2020-03"
+ },
+ "ROD0333": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d264ee76-383f-48ac-acbc-71dc204ae860.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-03"
+ },
+ "ROD0334": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9a0e66eb-5b9c-4cf6-ae96-258180c78b26.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 2.5,
+  "sprzedaz": "2022-03"
+ },
+ "ROD0335": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c87cd204-61e4-4507-8eaa-195c02e1a40b.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-03"
+ },
+ "ROD0336": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/83d44c18-d0ba-46ff-91ea-fc119d8fae9a.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-03"
+ },
+ "ROD0337": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e8e76db2-db80-4ba7-be15-2f239fc52d43.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2025-03"
+ },
+ "ROD0338": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3c8d0161-27de-4500-9ac3-474c726381ca.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.85,
+  "sprzedaz": "2026-03"
+ },
+ "ROD0431": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/57569751-c0ea-4dd5-ab73-cb2f5a62c645.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-04"
+ },
+ "ROD0432": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ef0870aa-7593-4c75-9863-35409ca5fbbd.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2020-04"
+ },
+ "ROD0433": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/eea430ac-a23d-4f77-952e-7f73a56d3244.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-04"
+ },
+ "ROD0434": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b033b652-082e-4130-9695-731461061dbb.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 3.0,
+  "sprzedaz": "2022-04"
+ },
+ "ROD0435": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/45aa1a0f-f0bc-483f-9c64-f5d8e27c09df.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-04"
+ },
+ "ROD0436": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/440b1e89-8703-4ac8-833d-5094d9ff2104.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-04"
+ },
+ "ROD0437": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a3e235e0-8c08-47ed-9ecd-2b8620bb5957.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2025-04"
+ },
+ "ROD0438": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b2514cd6-ecea-4a3f-a42e-654e6c413186.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-04"
+ },
+ "ROD0531": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/194ffc7d-feb8-44bd-a84e-bdf7cb7859d7.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-05"
+ },
+ "ROD0532": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/83faffde-0c1f-4593-9e8f-21f85ca70a0c.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-05"
+ },
+ "ROD0533": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/15aa5c48-cd01-49ad-a262-ecc008f5e344.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-05"
+ },
+ "ROD0534": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ba901f81-d3b4-4a44-9b21-65727783cf40.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 4.0,
+  "sprzedaz": "2022-05"
+ },
+ "ROD0535": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3855c31d-fd31-4f03-8aa2-dc128918b5df.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-05"
+ },
+ "ROD0536": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9d2fb48d-c33d-4085-8a83-9117c02797b4.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-05"
+ },
+ "ROD0537": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7f000b40-cefb-426d-acec-58123e05dd51.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.6,
+  "sprzedaz": "2025-05"
+ },
+ "ROD0538": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7cff5d0b-3b28-40e9-a74a-07d2a9cc9f96.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-05"
+ },
+ "ROD0631": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1a5f9c57-53a3-42c7-9270-2bf3f724342a.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-06"
+ },
+ "ROD0632": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1d39cf2d-38cb-4fa5-8769-03cf19d9fffd.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-06"
+ },
+ "ROD0633": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7cab3a9a-d43b-4721-bcf0-b6ecb9424e2b.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-06"
+ },
+ "ROD0634": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/534f45c8-4812-43ed-bfeb-55ba29966be6.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 6.0,
+  "sprzedaz": "2022-06"
+ },
+ "ROD0635": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/efdefb0f-1ddd-413e-8282-5ac2017e45f9.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-06"
+ },
+ "ROD0636": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/29d30015-a800-4840-b3a1-83900abd7254.pdf",
+  "marza": 2.5,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-06"
+ },
+ "ROD0637": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/32ed9e15-2061-4a33-aff9-9c7b147e4cbb.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-06"
+ },
+ "ROD0638": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6efe3dff-84a7-4cf6-b66e-7af97701ee6e.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-06"
+ },
+ "ROD0731": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8b4a919b-556e-42ae-b9f6-e306a30361f1.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-07"
+ },
+ "ROD0732": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ce9ee0b5-0693-4f46-8687-79d98d84eafd.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-07"
+ },
+ "ROD0733": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5e6f871e-3470-4e1b-9e6f-e045665e9077.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-07"
+ },
+ "ROD0734": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2a0c2985-7580-4c3e-9b06-12349d2c7ad6.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2022-07"
+ },
+ "ROD0735": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e64be34c-7c12-440e-8f50-6db22ba1ae2e.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-07"
+ },
+ "ROD0736": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6aa9e9d4-4efe-4ce8-9414-1987ddc8035d.pdf",
+  "marza": 2.5,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-07"
+ },
+ "ROD0737": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/42c06677-d252-4f41-8431-9f66b7b53b5c.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-07"
+ },
+ "ROD0738": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/949e03ea-efca-4df8-a4c1-092ff44c7d6f.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-07"
+ },
+ "ROD0831": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/179b8af8-b343-4e82-814e-cdfa5bfe0792.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-08"
+ },
+ "ROD0832": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aba172c2-65fd-4ee9-9cdd-bb17d62844b2.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-08"
+ },
+ "ROD0833": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9f017c95-3e3b-4cd9-8c88-400bdcc6c85b.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-08"
+ },
+ "ROD0834": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a9eb98a1-0cce-4df8-8537-13fbf6fd97c6.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.0,
+  "sprzedaz": "2022-08"
+ },
+ "ROD0835": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2f868c1e-f044-4fa2-be9a-d196d53ec1f2.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-08"
+ },
+ "ROD0836": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0678c68a-c27b-4a43-93f5-e0a652e9067a.pdf",
+  "marza": 2.5,
+  "oplata": 2.0,
+  "r1": 7.05,
+  "sprzedaz": "2024-08"
+ },
+ "ROD0837": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b4d09a12-eeb1-4ba2-ac88-5a0883bb9d70.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.25,
+  "sprzedaz": "2025-08"
+ },
+ "ROD0838": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6604510b-a341-4020-b781-d0ed60e774bb.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-08"
+ },
+ "ROD0931": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/803c9c2e-7398-44b3-a3be-2300bc0334fb.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-09"
+ },
+ "ROD0932": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/75d93172-6045-46ad-be86-a8256fb2a162.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-09"
+ },
+ "ROD0933": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/db10c260-36ca-4966-ad06-5908d7cdf043.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-09"
+ },
+ "ROD0934": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8cb5a282-53f6-447d-b892-ee7ed8218444.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.0,
+  "sprzedaz": "2022-09"
+ },
+ "ROD0935": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6e2b76b6-9c11-4485-931e-03fda81db7f8.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-09"
+ },
+ "ROD0936": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/041cb7a3-b24f-4b2d-9776-cc0328bb378b.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-09"
+ },
+ "ROD0937": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c04319cc-8b9e-45fc-8f0e-af83b5aca564.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.25,
+  "sprzedaz": "2025-09"
+ },
+ "ROD0938": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1fe0f15f-cbd2-4035-9359-edcdb54623d8.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-09"
+ },
+ "ROD1031": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aa530652-a0ab-418a-8aec-dec864275920.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-10"
+ },
+ "ROD1032": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3444d48f-a805-430d-b6d4-b123e00ea1bc.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-10"
+ },
+ "ROD1033": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7f4e0c0f-6171-438a-8052-c7ac176d9d30.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-10"
+ },
+ "ROD1034": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ca480c33-29f5-4e4e-8761-f492bc894714.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2022-10"
+ },
+ "ROD1035": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/866f6d8b-a820-46b5-8931-f9c94e1ca2c0.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2023-10"
+ },
+ "ROD1036": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/06a272a1-c7f9-4961-abc2-8b59784a1754.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-10"
+ },
+ "ROD1037": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/967d22a8-47a9-49c1-950f-0ddc90640ddb.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.25,
+  "sprzedaz": "2025-10"
+ },
+ "ROD1038": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/03e2bc03-0128-49b7-be93-669ef058b7c5.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-10"
+ },
+ "ROD1131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b71ee1ab-fd00-4469-bae3-e5208d0bc463.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-11"
+ },
+ "ROD1132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3597de18-0706-4a27-ac6b-035f75ae1102.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-11"
+ },
+ "ROD1133": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/152370af-c99f-4ac8-ad1e-9899df5b0f6d.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-11"
+ },
+ "ROD1134": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/09ccf3d5-effb-4b98-b53b-7d705bd0927a.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2022-11"
+ },
+ "ROD1135": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/613fa777-e0ac-4575-a831-a29d8ee33106.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-11"
+ },
+ "ROD1136": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/079c3975-3131-459b-8490-17a985d70726.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-11"
+ },
+ "ROD1137": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fcef0471-2b77-48d1-8add-655fc1a211c4.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.0,
+  "sprzedaz": "2025-11"
+ },
+ "ROD1231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5804f4d4-1daa-46f4-9023-81fbbfca21c5.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 3.2,
+  "sprzedaz": "2019-12"
+ },
+ "ROD1232": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/57cd5df9-a347-497b-8e20-18bdb5b2c11a.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2020-12"
+ },
+ "ROD1233": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2dd26bca-d392-4e27-99cf-bc0ef85a5b7f.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 2.0,
+  "sprzedaz": "2021-12"
+ },
+ "ROD1234": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d5f18699-2e14-4b83-a17b-75e926db8ded.pdf",
+  "marza": 1.75,
+  "oplata": 2.0,
+  "r1": 7.5,
+  "sprzedaz": "2022-12"
+ },
+ "ROD1235": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4d624c14-b15a-4c28-ace5-774a3dccb38a.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 7.25,
+  "sprzedaz": "2023-12"
+ },
+ "ROD1236": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1480ead3-e2e8-4026-b1c6-2a13005e4989.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 6.8,
+  "sprzedaz": "2024-12"
+ },
+ "ROD1237": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/eabb1a8a-234a-454f-b999-6fc4ab9cc07b.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.85,
+  "sprzedaz": "2025-12"
+ },
+ "ROR0124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/67c9f563-480e-476c-bab1-190e7e83c53e.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-01"
+ },
+ "ROR0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e4f1ebf6-c481-4b88-9af2-cef038859ee4.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.15,
+  "sprzedaz": "2024-01"
+ },
+ "ROR0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5c33f60d-0a73-40f5-ad5b-fb16dca644ba.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2025-01"
+ },
+ "ROR0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/19d525df-01f6-4e95-b62e-47a37a8a8770.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.25,
+  "sprzedaz": "2026-01"
+ },
+ "ROR0224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6e2aeee9-1a96-462c-a043-7b55d8ce5ab5.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-02"
+ },
+ "ROR0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f7eb1523-6db4-4b30-a588-b49d728a45ed.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.05,
+  "sprzedaz": "2024-02"
+ },
+ "ROR0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/648695a6-28cd-451b-85f1-34e8d5b59069.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2025-02"
+ },
+ "ROR0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2d17197c-9e0f-472c-ae64-ac3668ddbcef.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.25,
+  "sprzedaz": "2026-02"
+ },
+ "ROR0324": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5d482c73-a1fb-4d89-8e27-0767f7a573f4.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-03"
+ },
+ "ROR0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/91329c2e-7ee8-4167-806a-49d0e9b4af01.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.05,
+  "sprzedaz": "2024-03"
+ },
+ "ROR0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3e811a0e-844b-48d9-bd53-1a598dea4873.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2025-03"
+ },
+ "ROR0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9a594202-8229-4c9f-b2d4-65351042660a.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.25,
+  "sprzedaz": "2026-03"
+ },
+ "ROR0424": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/22dd0ad3-2fc3-49e8-8f8c-66edb74de270.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-04"
+ },
+ "ROR0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f42d44c6-0af0-4403-8241-a09db1b89979.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.05,
+  "sprzedaz": "2024-04"
+ },
+ "ROR0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/af7d0071-69cd-4252-93a0-e59bc6e2932e.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2025-04"
+ },
+ "ROR0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b4d9987a-a600-4503-8cba-aa51243888f1.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-04"
+ },
+ "ROR0524": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/82795e76-10c5-4ee2-93d4-ffe6f000051e.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-05"
+ },
+ "ROR0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e289d09c-7704-4137-b54f-9713c5cdf344.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.05,
+  "sprzedaz": "2024-05"
+ },
+ "ROR0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4ad85a2b-4e2b-4361-8c25-d97ae300132e.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2025-05"
+ },
+ "ROR0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a324f341-798a-44ca-bf82-060c7b83bda3.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-05"
+ },
+ "ROR0623": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2d17acfd-e866-4097-83b1-a4a98ee403d4.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.25,
+  "sprzedaz": "2022-06"
+ },
+ "ROR0624": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/60ec6a4d-e1ae-44f3-b4a6-1009587369d5.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-06"
+ },
+ "ROR0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/150a9759-129d-4bee-ace1-594e95e2c4d8.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.95,
+  "sprzedaz": "2024-06"
+ },
+ "ROR0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8c44801c-eeec-4602-bb0e-f5657dadeacf.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.25,
+  "sprzedaz": "2025-06"
+ },
+ "ROR0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/62a6e133-326b-4212-8c63-9ebbba5247f6.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-06"
+ },
+ "ROR0723": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8ce50fd2-3f73-4883-bd98-a8810ca1add3.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.0,
+  "sprzedaz": "2022-07"
+ },
+ "ROR0724": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/dce8c613-8fdb-4b2a-971e-1e0ba4dd98b1.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-07"
+ },
+ "ROR0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a7c21c43-b472-4726-9280-b05b54083dc7.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.95,
+  "sprzedaz": "2024-07"
+ },
+ "ROR0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4d034d6c-506f-4b41-a1ba-fb7605dbf686.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.25,
+  "sprzedaz": "2025-07"
+ },
+ "ROR0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cded8aaa-4dc9-4241-b269-77dd30190add.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-07"
+ },
+ "ROR0823": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a528c525-43d2-46c0-b63b-c073817a06c9.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.5,
+  "sprzedaz": "2022-08"
+ },
+ "ROR0824": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8826a7da-38d0-41cc-88a2-baa0770a6893.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-08"
+ },
+ "ROR0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be314677-657a-4d43-9573-d420181df94c.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.95,
+  "sprzedaz": "2024-08"
+ },
+ "ROR0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b5397c1a-3a58-448e-a835-58736af62875.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.0,
+  "sprzedaz": "2025-08"
+ },
+ "ROR0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0d1fc5e4-04ad-429e-b946-c67d3cacd00c.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-08"
+ },
+ "ROR0923": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/61fe196c-6156-4f54-810f-f2f0691b2965.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.5,
+  "sprzedaz": "2022-09"
+ },
+ "ROR0924": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0c04685f-1717-4687-a266-6683c034ef9b.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2023-09"
+ },
+ "ROR0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/52b30da5-78ab-475c-8945-6c82629229b4.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2024-09"
+ },
+ "ROR0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/864aca10-50a1-40e1-ad28-7d5e49c17945.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.0,
+  "sprzedaz": "2025-09"
+ },
+ "ROR0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ec193ea6-fcd0-497a-a328-a7d9b2cc9d06.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-09"
+ },
+ "ROR1023": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/33a0ab40-469c-4975-a700-f09ea2aabce3.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2022-10"
+ },
+ "ROR1024": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2e8c2847-9808-40a2-bfc6-87f960122940.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.5,
+  "sprzedaz": "2023-10"
+ },
+ "ROR1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f1d8af5a-28bf-4da5-bdd8-5aa03de13243.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2024-10"
+ },
+ "ROR1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/51c5daa8-28b0-4e9e-ae1a-28170a378b8b.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.75,
+  "sprzedaz": "2025-10"
+ },
+ "ROR1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f4e264bb-537d-4a7e-813e-e4f099ea0cc5.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-10"
+ },
+ "ROR1123": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f1d41f1d-a792-4506-bc66-653fc1272a7b.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2022-11"
+ },
+ "ROR1124": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2e880fa1-611b-45d6-bd67-964008b3f89e.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.25,
+  "sprzedaz": "2023-11"
+ },
+ "ROR1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e451a5c7-3803-4579-9837-370cdc9ac3b8.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2024-11"
+ },
+ "ROR1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8ebee326-3d28-45b4-affc-b233c32c6e62.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.5,
+  "sprzedaz": "2025-11"
+ },
+ "ROR1223": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6dbd3c9d-299d-4e6f-a3ab-d832092e25c7.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.75,
+  "sprzedaz": "2022-12"
+ },
+ "ROR1224": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/78b67198-20b6-4e90-bbe0-6ad547002635.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 6.25,
+  "sprzedaz": "2023-12"
+ },
+ "ROR1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3de7c4a9-43c0-4345-a514-272f734dff88.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 5.75,
+  "sprzedaz": "2024-12"
+ },
+ "ROR1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7c3fc4ba-6172-47f0-9bc9-5cdb1a87c5ff.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.25,
+  "sprzedaz": "2025-12"
+ },
+ "ROS0125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/589cc477-efa1-4d8a-863c-4e9dfab14b99.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-01"
+ },
+ "ROS0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e2e0523d-1766-4a7c-83aa-1e736c27d6ef.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2020-01"
+ },
+ "ROS0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d7cf4a35-5dff-4654-9247-076531e41844.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-01"
+ },
+ "ROS0128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0f96f443-c218-4221-a67e-ad03deafad67.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2022-01"
+ },
+ "ROS0129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5e90b721-4028-4f8c-971e-49baf8a91535.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-01"
+ },
+ "ROS0130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/01fc224e-c53f-453d-b36f-850a3f31eb48.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2024-01"
+ },
+ "ROS0131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f7998fab-08a8-4303-9d71-60151540d24a.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-01"
+ },
+ "ROS0132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b82e1422-3297-45b8-b07b-55ffeacb03ab.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.2,
+  "sprzedaz": "2026-01"
+ },
+ "ROS0225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c7b7cdfc-588b-4679-8a5d-eb88642e7328.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-02"
+ },
+ "ROS0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/776f1732-71b0-4957-aaf6-f526c56e83a1.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2020-02"
+ },
+ "ROS0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3fd3d78b-82be-493e-ae35-71b0a82a34d1.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-02"
+ },
+ "ROS0228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/17d9f5f3-2c31-43be-ba53-3bd95cef9217.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 2.0,
+  "sprzedaz": "2022-02"
+ },
+ "ROS0229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8c40d699-bb88-4699-876b-edb01866d5e0.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-02"
+ },
+ "ROS0230": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f16cb77f-2631-447e-8a5d-77e1f6155594.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-02"
+ },
+ "ROS0231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/dc0fd3f5-1e1d-4d5b-a323-64b07113ddfa.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-02"
+ },
+ "ROS0232": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/af09825f-8c92-4b3b-af76-e5c517801a88.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.2,
+  "sprzedaz": "2026-02"
+ },
+ "ROS0325": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b87b77b4-4fa6-4f33-ae65-5cef25604e63.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-03"
+ },
+ "ROS0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/29bf8e44-192a-4076-abcb-15630333e7fb.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2020-03"
+ },
+ "ROS0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1a8551c3-dc86-45f8-8e21-d1b032d48571.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-03"
+ },
+ "ROS0328": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/77b0d275-0242-4ccc-bd67-0842ad96474d.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 2.0,
+  "sprzedaz": "2022-03"
+ },
+ "ROS0329": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a95b4405-cd94-4472-82e5-3191206a5e5b.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-03"
+ },
+ "ROS0330": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cc135dfb-f12f-40bd-a09c-ac15b1ea4ae8.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-03"
+ },
+ "ROS0331": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/eb8c06f9-e492-40dd-805d-0ffabe1955b7.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-03"
+ },
+ "ROS0332": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/2d0c4589-4e39-4bea-94b0-d506b3fdf347.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.2,
+  "sprzedaz": "2026-03"
+ },
+ "ROS0425": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/30f6a718-800a-43b1-b708-07c0a2e16647.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-04"
+ },
+ "ROS0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/17d53839-548e-4699-81dc-ab7000a334d3.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2020-04"
+ },
+ "ROS0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/419101e9-1ca6-401b-8dd2-cad5b89fa227.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-04"
+ },
+ "ROS0428": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f174f258-62b2-450b-8a19-dc307663bee3.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 2.5,
+  "sprzedaz": "2022-04"
+ },
+ "ROS0429": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/90979201-1451-4193-a491-233d5dbcfbab.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-04"
+ },
+ "ROS0430": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a5c2bb1b-bea0-4fdc-8596-8c71c7ac3589.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-04"
+ },
+ "ROS0431": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/29bda3a1-2744-4621-9198-5c35c6fa9a92.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2025-04"
+ },
+ "ROS0432": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0f2c9eb8-eb7d-4104-9d83-02e81d12acae.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-04"
+ },
+ "ROS0525": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5fd7ea2d-0d15-4924-9fe3-f434d4d5a136.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-05"
+ },
+ "ROS0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c76deebe-a4a7-4be0-8cad-7bec484517f2.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-05"
+ },
+ "ROS0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e3a604b7-8252-4588-b31c-1a447d1ef8d1.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-05"
+ },
+ "ROS0528": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5a868f95-3b7e-4923-bd4c-dc803777158b.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 3.5,
+  "sprzedaz": "2022-05"
+ },
+ "ROS0529": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d4e95147-11a3-404c-827c-283e3812475e.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-05"
+ },
+ "ROS0530": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/59fa214f-7cb7-4f5a-96c1-0138b3ed948b.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-05"
+ },
+ "ROS0531": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/86327dfe-defb-4139-bc2e-bc8139fbbf05.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.3,
+  "sprzedaz": "2025-05"
+ },
+ "ROS0532": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be0867c1-2df5-4144-acca-138faa88f43f.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-05"
+ },
+ "ROS0625": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d562037a-0251-4ef4-9408-e973745a5ddd.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-06"
+ },
+ "ROS0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/001160d8-709f-4996-9539-0fd3b6909e39.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-06"
+ },
+ "ROS0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/740d31dc-ab63-483a-9bab-8708fa5e4903.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-06"
+ },
+ "ROS0628": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b68bfa8b-6e28-4f4e-a111-71896bf73a63.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 5.7,
+  "sprzedaz": "2022-06"
+ },
+ "ROS0629": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0b039d2b-8746-4d24-83a1-851999abcab9.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-06"
+ },
+ "ROS0630": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/13855536-5673-44ed-afb1-cc91dc35e775.pdf",
+  "marza": 2.0,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-06"
+ },
+ "ROS0631": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4741baeb-4c19-47a3-8f31-a7b2b4d78dca.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.2,
+  "sprzedaz": "2025-06"
+ },
+ "ROS0632": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d89f9e4e-cfe8-4046-b041-a4a2f5d5c6af.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-06"
+ },
+ "ROS0725": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c2b0dde3-5701-4d71-bf77-a48db084bb73.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-07"
+ },
+ "ROS0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/64acfade-e6dd-4a95-b879-714580f8b248.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-07"
+ },
+ "ROS0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7a3d28d1-8e66-4fcc-9a99-a2fae8c308b3.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-07"
+ },
+ "ROS0728": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6d7ce11e-4d21-4152-be70-bef5129ebd0c.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.2,
+  "sprzedaz": "2022-07"
+ },
+ "ROS0729": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d0e98629-1a40-49ad-9e8d-aa0d60e38246.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-07"
+ },
+ "ROS0730": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/39d234ce-07e8-4557-9547-76d5c4ae60c7.pdf",
+  "marza": 2.0,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-07"
+ },
+ "ROS0731": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1d90c9ca-481a-4c2b-a988-6250ac5d538b.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.2,
+  "sprzedaz": "2025-07"
+ },
+ "ROS0732": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0981899b-9a01-4cbf-9260-5dc2ab72f2b5.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-07"
+ },
+ "ROS0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a94ecbf7-a9ee-454f-9621-a83ab30e92f6.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-08"
+ },
+ "ROS0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4894fb80-9734-4118-ad7b-f68d3e86fef6.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-08"
+ },
+ "ROS0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/28dfc105-0966-47e6-a825-fa1908cbfb34.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-08"
+ },
+ "ROS0828": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/78bae5cf-47e1-4911-b484-4a8dc538421b.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.7,
+  "sprzedaz": "2022-08"
+ },
+ "ROS0829": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/be3638a5-199a-4bf6-9bb7-ab01a8a7ba02.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-08"
+ },
+ "ROS0830": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/abaf75b2-c930-4fb4-8d61-ca1fc0a125dc.pdf",
+  "marza": 2.0,
+  "oplata": 0.7,
+  "r1": 6.75,
+  "sprzedaz": "2024-08"
+ },
+ "ROS0831": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/41db6ed4-22df-4f82-b5be-c91901ea6540.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-08"
+ },
+ "ROS0832": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d866d60c-2d69-4d0e-91e5-0405e9f1361e.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-08"
+ },
+ "ROS0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b0b0f6a0-d2e8-43a5-a9cf-b0a2769c5a86.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-09"
+ },
+ "ROS0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aa918b12-ab38-48d6-b317-254f6ec41006.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-09"
+ },
+ "ROS0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6402555c-1f72-4f87-9d1a-270368f76274.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-09"
+ },
+ "ROS0928": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/319be641-965e-4479-83cc-0330d875ddb1.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 6.7,
+  "sprzedaz": "2022-09"
+ },
+ "ROS0929": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/93f94232-e676-4d3d-9552-239a4b13093f.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-09"
+ },
+ "ROS0930": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/4dfe3cdb-be94-4de0-9018-0d7bb2553674.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2024-09"
+ },
+ "ROS0931": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6b4f74b0-2f15-40e6-b287-5cb05b7debf3.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-09"
+ },
+ "ROS0932": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/84817c16-3d45-497a-b933-c6c894ea29dc.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-09"
+ },
+ "ROS1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9a60c7ad-ad93-4cb5-80b7-0700a4c4bc70.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-10"
+ },
+ "ROS1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d0d398be-e629-4717-a5fe-6951e04ac365.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-10"
+ },
+ "ROS1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ec695a55-1130-418a-a51a-e77b856956a7.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-10"
+ },
+ "ROS1028": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9fb368b4-d5df-4717-ab37-f77abeb2d4e6.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2022-10"
+ },
+ "ROS1029": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9ff88341-9546-466c-9909-b4f8bc30e6db.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2023-10"
+ },
+ "ROS1030": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/64dcc24d-4a5b-4380-b88c-bfb988bd7d0e.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2024-10"
+ },
+ "ROS1031": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/15e9e6a1-456d-4de2-8842-1e06e07071d6.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.7,
+  "sprzedaz": "2025-10"
+ },
+ "ROS1032": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/429484ab-572e-4c43-9f64-3ea8fea13437.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-10"
+ },
+ "ROS1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a4ed41e4-2218-4dc8-9ce5-dd75479dbd02.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-11"
+ },
+ "ROS1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/46dffb66-dd68-40a8-b2fa-2c9891329274.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-11"
+ },
+ "ROS1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/284f3e03-3bfc-4dd8-80ad-ef40c4f7cc84.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-11"
+ },
+ "ROS1128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1aefc89d-1905-4819-9ced-ed24694fdedb.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2022-11"
+ },
+ "ROS1129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/abe2ba36-52f7-419f-949d-1b36e17380c1.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.95,
+  "sprzedaz": "2023-11"
+ },
+ "ROS1130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7b04c899-60b1-4c58-9034-8d78196ec328.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2024-11"
+ },
+ "ROS1131": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/74ac4bdd-ff03-4c95-8a0e-c0a65f828564.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.45,
+  "sprzedaz": "2025-11"
+ },
+ "ROS1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ef8f3a02-ed76-4cb5-93ec-a97a98f98b49.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 2.8,
+  "sprzedaz": "2019-12"
+ },
+ "ROS1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1c34311b-cae0-40a7-a7cd-d0c023a03bb8.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2020-12"
+ },
+ "ROS1227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d8388457-713e-4414-8d0e-f0be0512f0d1.pdf",
+  "marza": 1.25,
+  "oplata": 0.7,
+  "r1": 1.5,
+  "sprzedaz": "2021-12"
+ },
+ "ROS1228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/43188ece-9216-48e3-b7b0-7b27dad0e133.pdf",
+  "marza": 1.5,
+  "oplata": 0.7,
+  "r1": 7.2,
+  "sprzedaz": "2022-12"
+ },
+ "ROS1229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/aff7034f-a304-4c2d-9267-54972e8b96ab.pdf",
+  "marza": 1.75,
+  "oplata": 0.7,
+  "r1": 6.95,
+  "sprzedaz": "2023-12"
+ },
+ "ROS1230": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c268ba81-ccf6-4ec6-98eb-446b6dbc1a1c.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 6.5,
+  "sprzedaz": "2024-12"
+ },
+ "ROS1231": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d5af5129-669b-47a5-b6c2-4055cf65779d.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.2,
+  "sprzedaz": "2025-12"
+ },
+ "TOS0126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a1075608-2d68-408e-a399-d1e7380e676e.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-01"
+ },
+ "TOS0127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bd92f8fb-ccc1-4abe-9ce7-b6f703e8c6a6.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2024-01"
+ },
+ "TOS0128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/dcb2aa42-2a51-4d3a-8080-0898efd3d7a9.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-01"
+ },
+ "TOS0129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/770c82cc-1408-43ac-8d67-7056f83e3a36.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.65,
+  "sprzedaz": "2026-01"
+ },
+ "TOS0226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/24e3c688-3939-45dc-ab2f-fd8fb249e652.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-02"
+ },
+ "TOS0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c6c98bc3-90dd-4c6f-812c-972812b6e08b.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.4,
+  "sprzedaz": "2024-02"
+ },
+ "TOS0228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c61c8aa6-ab0d-4e20-9b32-208ae2f59cef.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-02"
+ },
+ "TOS0229": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cb7ad3aa-e49a-43c1-abb3-ca3bc741bd60.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.65,
+  "sprzedaz": "2026-02"
+ },
+ "TOS0326": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/229312f3-e47e-4a34-a0bf-acab67568e9a.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-03"
+ },
+ "TOS0327": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b197626a-380a-48c8-8bc5-180dd7328d0c.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.4,
+  "sprzedaz": "2024-03"
+ },
+ "TOS0328": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d15ba18e-7b0f-4dfc-afa1-7b87c8bc7d77.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-03"
+ },
+ "TOS0329": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/90dbdef5-0d11-437d-a5cd-6ff770827473.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.65,
+  "sprzedaz": "2026-03"
+ },
+ "TOS0426": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d3beb32a-deec-4875-94bc-9d6d735e7fe2.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-04"
+ },
+ "TOS0427": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8dfd3cba-622b-4492-89e5-7a15718ac0dc.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.4,
+  "sprzedaz": "2024-04"
+ },
+ "TOS0428": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/fdd1658d-508d-4258-9aa9-d2b4b3a28240.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2025-04"
+ },
+ "TOS0429": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/b597efa8-edd3-4dff-8ed6-dad9fcf43fcd.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-04"
+ },
+ "TOS0526": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/337903f7-c4b9-41d9-ab78-d0cf89985010.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-05"
+ },
+ "TOS0527": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c67a41c5-f5df-48fe-8d08-7abc85484fd2.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.4,
+  "sprzedaz": "2024-05"
+ },
+ "TOS0528": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/cfa2e1b2-bd50-4b77-92b5-fde626204df6.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.75,
+  "sprzedaz": "2025-05"
+ },
+ "TOS0529": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5a26a9c2-113e-40d9-9573-f37f5803269c.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-05"
+ },
+ "TOS0626": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1e97b3d2-685b-45ed-8f74-3fa2c6ef0906.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-06"
+ },
+ "TOS0627": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9c068f24-a53b-4ee6-b7ce-fea84bd789e1.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.2,
+  "sprzedaz": "2024-06"
+ },
+ "TOS0628": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/6a792abb-a882-4e4a-a4d8-768930823868.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.65,
+  "sprzedaz": "2025-06"
+ },
+ "TOS0629": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/da29718a-34f5-427b-9333-f525458d7183.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-06"
+ },
+ "TOS0726": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e03ac9a9-c9e1-422a-babe-e61fb752b723.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-07"
+ },
+ "TOS0727": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a2c3a629-7cd6-4cf4-a573-6b03964a4272.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.2,
+  "sprzedaz": "2024-07"
+ },
+ "TOS0728": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/075dad18-84df-450e-a35a-5f64cfc96936.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.65,
+  "sprzedaz": "2025-07"
+ },
+ "TOS0729": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/5a68dff2-7949-4b37-aafd-366e76a1b901.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-07"
+ },
+ "TOS0825": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9bb466eb-a87b-4ddb-8f67-2cdf55cf2690.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2022-08"
+ },
+ "TOS0826": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/8108f2e0-96b3-4603-b8e1-3851f08e9941.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-08"
+ },
+ "TOS0827": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a51652e9-057b-4faf-9a96-b9d882d4c4e7.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.2,
+  "sprzedaz": "2024-08"
+ },
+ "TOS0828": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d5895c54-0770-4e3f-ac19-e68e9989644f.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.4,
+  "sprzedaz": "2025-08"
+ },
+ "TOS0829": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/0f23ffd0-a3d6-467d-b3cc-c3ffcc190ecd.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-08"
+ },
+ "TOS0925": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1302d338-6d7a-49d3-9248-ef5a6aa3b809.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.5,
+  "sprzedaz": "2022-09"
+ },
+ "TOS0926": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/51df91b3-948f-473e-8a8a-105cf7ec2fbe.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-09"
+ },
+ "TOS0927": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/7f4e4cb3-48e7-451b-9ca0-71aff71427c9.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2024-09"
+ },
+ "TOS0928": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/e4c54324-1c70-454f-913d-2945eeeabca9.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.4,
+  "sprzedaz": "2025-09"
+ },
+ "TOS0929": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/68f35a7e-781c-4fab-82af-3f87b2ef7294.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-09"
+ },
+ "TOS1025": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3e0026b3-a567-45f5-9dc4-a7e81b1e799d.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-10"
+ },
+ "TOS1026": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/ece1e082-9e51-455d-be55-bd42435c6995.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2023-10"
+ },
+ "TOS1027": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a132d30c-7dde-4562-9fc0-d79029a9075e.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2024-10"
+ },
+ "TOS1028": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/1b88e7f3-38e9-4486-9105-4ad60e34a925.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.15,
+  "sprzedaz": "2025-10"
+ },
+ "TOS1029": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/c15a26ae-de6e-4b89-a137-cb16687a7b0a.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-10"
+ },
+ "TOS1125": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a5bb6b00-60c1-476d-ac91-49e08f0ef448.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-11"
+ },
+ "TOS1126": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/08af1022-355a-4e98-8177-f9046baac74a.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.6,
+  "sprzedaz": "2023-11"
+ },
+ "TOS1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/d8c9544d-6b7e-462a-b49a-fbf076e4e74b.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2024-11"
+ },
+ "TOS1128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f72ecdf0-4087-4152-8731-3a9c07ac6b91.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.9,
+  "sprzedaz": "2025-11"
+ },
+ "TOS1225": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/72b44bd1-b83e-4399-a868-0ba7ca21fb94.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.85,
+  "sprzedaz": "2022-12"
+ },
+ "TOS1226": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/326278a6-10df-459e-a993-46a8cacf6505.pdf",
+  "marza": 0.0,
+  "oplata": 0.7,
+  "r1": 6.6,
+  "sprzedaz": "2023-12"
+ },
+ "TOS1227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/a25c5ce5-dcbd-4e96-9598-08f895fb0299.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 5.95,
+  "sprzedaz": "2024-12"
+ },
+ "TOS1228": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9e37be25-cb39-45d1-9d50-82e392c6df34.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.65,
+  "sprzedaz": "2025-12"
+ },
+ "_brak": [
+  "EDO1125",
+  "EDO1028",
+  "EDO1128",
+  "EDO1228",
+  "EDO0829",
+  "TOS0124",
+  "TOS0224",
+  "TOS0324",
+  "TOS0424",
+  "TOS0524",
+  "TOS0624",
+  "TOS0724",
+  "TOS0824",
+  "TOS0924",
+  "TOS1024",
+  "TOS1124",
+  "TOS1224",
+  "TOS0125",
+  "TOS0225",
+  "TOS0325",
+  "TOS0425",
+  "TOS0525",
+  "TOS0625",
+  "TOS0725",
+  "ROR0122",
+  "ROR0222",
+  "ROR0322",
+  "ROR0422",
+  "ROR0522",
+  "ROR0622",
+  "ROR0722",
+  "ROR0822",
+  "ROR0922",
+  "ROR1022",
+  "ROR1122",
+  "ROR1222",
+  "ROR0123",
+  "ROR0223",
+  "ROR0323",
+  "ROR0423",
+  "ROR0523",
+  "DOR0123",
+  "DOR0223",
+  "DOR0323",
+  "DOR0423",
+  "DOR0523",
+  "DOR0623",
+  "DOR0723",
+  "DOR0823",
+  "DOR0923",
+  "DOR1023",
+  "DOR1123",
+  "DOR1223",
+  "DOR0124",
+  "DOR0224",
+  "DOR0324",
+  "DOR0424",
+  "DOR0524"
+ ]
+}
