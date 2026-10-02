@@ -152,3 +152,37 @@ def test_kryptowaluty_bitstamp_tylko_z_licencja(monkeypatch):
     monkeypatch.setenv("KRYPTO_BITSTAMP", "1")
     assert krypto.bitstamp_enabled()
     assert all(len(c) <= 6 for c in krypto.COINS)
+
+
+def test_cena_sprzed_24h_z_odczytow_godzinowych():
+    from datetime import datetime, timedelta, timezone
+    import build_api as b
+    teraz = datetime(2026, 10, 2, 12, 17, tzinfo=timezone.utc)
+    odczyty = []
+    for h in range(40, 0, -1):                          # co godzinę od 40 h temu, bez odczytu sprzed 24 h
+        if h != 24:
+            odczyty = b.zapamietaj_odczyt(odczyty, teraz - timedelta(hours=h), {"XAU": 1000 + h})
+    assert len(odczyty) == b.GODZIN_W_PAMIECI - 1      # starsze niż 30 h usunięte (licząc od ostatniego)
+    assert b.cena_24h(odczyty, teraz, "XAU") in (1023, 1025)   # najbliższy 24 h wstecz
+    assert b.cena_24h(odczyty, teraz, "BTC") is None
+    assert b.cena_24h(odczyty[-10:], teraz, "XAU") is None       # tylko świeże odczyty: brak ceny sprzed 24 h
+
+
+def test_metale_z_cena_sprzed_24h_zgodne_wstecz(tmp_path, monkeypatch):
+    from datetime import date, datetime, timezone
+    import build_api as b
+    monkeypatch.setattr(b, "OUT", tmp_path)
+    monkeypatch.setattr(b, "OFFLINE", True)
+    teraz = datetime(2026, 10, 2, 12, 17, tzinfo=timezone.utc)
+    monkeypatch.setattr(b, "load", lambda n, d: {
+        "metale_spot.json": {s: {"usd": 10.0 * (i + 1), "czas": "2026-10-02T12:00:00"}
+                             for i, s in enumerate(("XAU", "XAG", "XPT", "XPD", "BTC", "ETH"))},
+        "godzinowe.json": [{"czas": "2026-10-01T12:00+00:00", "pln": {"XAU": 35.0, "BTC": 200.0}}],
+    }.get(n, d))
+    b.build_metals(date(2026, 10, 2), {"USD": {date(2026, 10, 1): 4.0}}, teraz=teraz)
+    m = (tmp_path / "metale.txt").read_text()
+    assert len(m) == 1 + 12 + 8 * 9 and m[:13] == "M202610021200"
+    assert m[13:22] == "000004000"                       # XAU teraz 10 USD × 4 = 40 zł – stare pole bez zmian
+    assert m[49:58] == "000003500" and m[58:67] == "-" * 9  # XAU sprzed 24 h, XAG brak odczytu
+    k = (tmp_path / "kryptowaluty_24h.txt").read_text()
+    assert k.startswith("W202610021200;BTC   ") and ";ETH" not in k

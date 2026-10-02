@@ -8,6 +8,7 @@ Gdy któreś źródło nie odpowiada, zostaje poprzednia wersja jego pliku – a
 """
 
 import json
+import shutil
 import sys
 import traceback
 from datetime import date, datetime, timedelta, timezone
@@ -91,7 +92,26 @@ def build_fx(today):
     return hist
 
 
-def build_metals(today, fx):
+GODZIN_W_PAMIECI = 30      # odczyty godzinowe do ceny sprzed 24 h (cron GitHuba bywa nieregularny)
+
+
+def zapamietaj_odczyt(odczyty, teraz, ceny_pln):
+    """Dopisuje bieżący odczyt cen zł i usuwa starsze niż GODZIN_W_PAMIECI godzin."""
+    odczyty = [o for o in odczyty if teraz - datetime.fromisoformat(o["czas"]) < timedelta(hours=GODZIN_W_PAMIECI)]
+    return odczyty + [{"czas": teraz.isoformat(timespec="minutes"), "pln": ceny_pln}]
+
+
+def cena_24h(odczyty, teraz, symbol):
+    """Cena z odczytu najbliższego 24 h wstecz (od 20 do 30 h); None, gdy takiego odczytu nie ma."""
+    kandydaci = [(abs(teraz - datetime.fromisoformat(o["czas"]) - timedelta(hours=24)), o["pln"].get(symbol))
+                 for o in odczyty if timedelta(hours=20) <= teraz - datetime.fromisoformat(o["czas"])
+                 <= timedelta(hours=GODZIN_W_PAMIECI)]
+    kandydaci = [k for k in kandydaci if k[1] is not None]
+    return min(kandydaci)[1] if kandydaci else None
+
+
+def build_metals(today, fx, teraz=None):
+    teraz = teraz or datetime.now(timezone.utc)
     usd = fx["USD"]
     last_usd = usd[max(usd)]
     if not OFFLINE:
@@ -99,7 +119,11 @@ def build_metals(today, fx):
         save("metale_spot.json", spot)
     spot = load("metale_spot.json", {})
     stamp = max(v["czas"] for v in spot.values())[:16].replace("-", "").replace("T", "").replace(":", "")
-    write("metale.txt", "M" + stamp + "".join(fmt.num(spot[s]["usd"] * last_usd, 9, 100) for s in metale.SYMBOLS))
+    pln = {s: spot[s]["usd"] * last_usd for s in (*metale.SYMBOLS, *metale.CRYPTO)}
+    odczyty = load("godzinowe.json", [])
+    # metale.txt: cena teraz (4 × 9 cyfr) i – dopisana na końcu, żeby starsze arkusze czytały bez zmian – sprzed 24 h
+    write("metale.txt", "M" + stamp + "".join(fmt.num(pln[s], 9, 100) for s in metale.SYMBOLS)
+          + "".join(fmt.num(cena_24h(odczyty, teraz, s), 9, 100) for s in metale.SYMBOLS))
     write("krypto.txt", "C" + stamp + "".join(fmt.num(spot[s]["usd"] * last_usd, 11, 100) for s in metale.CRYPTO))
     # lista monet: BTC i ETH z gold-api.com, reszta z Bitstampu tylko po podpisaniu umowy licencyjnej
     usd_prices = {s: spot[s]["usd"] for s in krypto.GOLD_API}
@@ -107,7 +131,12 @@ def build_metals(today, fx):
         if not OFFLINE:
             save("krypto_bitstamp.json", krypto.bitstamp_usd())
         usd_prices = {**load("krypto_bitstamp.json", {}), **usd_prices}
-    write("kryptowaluty.txt", krypto.line(stamp, {s: v * last_usd for s, v in usd_prices.items()}))
+    teraz_krypto = {s: v * last_usd for s, v in usd_prices.items()}
+    write("kryptowaluty.txt", krypto.line(stamp, teraz_krypto))
+    przed = {s: cena_24h(odczyty, teraz, s) for s in teraz_krypto}
+    write("kryptowaluty_24h.txt", krypto.line(stamp, {s: v for s, v in przed.items() if v}))
+    if not OFFLINE:
+        save("godzinowe.json", zapamietaj_odczyt(odczyty, teraz, {**pln, **teraz_krypto}))
 
     hist = load("metale_hist.json", {})
     stale = hist.get("_pobrano", "") < (datetime.now(timezone.utc) - timedelta(hours=20)).isoformat()
@@ -179,9 +208,10 @@ OPIS = {
     "obligacje": "serie obligacji skarbowych: oprocentowanie 1. okresu, marża, opłata za wykup",
     "oferta": "bieżąca oferta obligacji skarbowych",
     "brokerzy": "prowizje XTB, mBank, BOŚ (Bossa), PKO z datami obowiązywania",
-    "limity": "limity wpłat IKE / IKZE", "metale": "kruszce – cena spot zł/oz",
+    "limity": "limity wpłat IKE / IKZE", "metale": "kruszce – cena spot zł/oz (teraz i sprzed 24 h)",
     "krypto": "BTC, ETH – cena zł (starszy format)", "kryptowaluty": "kryptowaluty – lista monet z ceną zł",
     "metale_hist": "kruszce – średnie miesięczne zł/oz",
+    "kryptowaluty_24h": "kryptowaluty – cena zł sprzed 24 h (zmiana dzienna)",
 }
 
 
@@ -232,6 +262,9 @@ def main(today=None):
         failed.append("kruszce")
     write("meta.txt", "V1" + datetime.now(timezone.utc).strftime("%Y%m%d%H%M") + ("" if not failed else "!" + ",".join(failed)))
     write_index()
+    # ikony i logo monet (obrazki/ w repozytorium) obok v1/: …/portfel-dane/ikony/*.png, …/monety/*.png
+    for katalog in ("ikony", "monety"):
+        shutil.copytree(ROOT / "obrazki" / katalog, OUT.parent / katalog, dirs_exist_ok=True)
     if failed:
         print("BŁĘDY:", failed)
     return failed

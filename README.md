@@ -18,13 +18,21 @@ zwykła strona (GitHub Pages, Cloudflare Pages albo dowolny hosting plików).
 | `oferta.txt` | `O` + RRRRMM + bieżąca oferta 8 rodzajów (po 12 cyfr) | listy emisyjne MF |
 | `brokerzy.txt` | `F` + reguły prowizji (broker, konto, rynek, instrument, od, do, %, minimum, przewalutowanie, próg obrotu) | `dane/brokerzy.json` (z tabel opłat) |
 | `limity.txt` | `L` + limity wpłat IKE / IKZE / IKZE JDG na każdy rok | `dane/limity.json` |
-| `metale.txt`, `krypto.txt` | cena spot zł/oz (XAU, XAG, XPT, XPD) i zł (BTC, ETH – starszy format) | gold-api.com × kurs NBP |
+| `metale.txt`, `krypto.txt` | cena spot zł/oz (XAU, XAG, XPT, XPD) i zł (BTC, ETH – starszy format); `metale.txt` ma na końcu 4 pola z ceną sprzed 24 h (starsze arkusze ich nie czytają) | gold-api.com × kurs NBP |
+| `kryptowaluty_24h.txt` | jak `kryptowaluty.txt`, cena zł sprzed 24 h (zmiana dzienna) | odczyty godzinowe z `dane/godzinowe.json` (ostatnie 30 h) |
 | `kryptowaluty.txt` | `W` + RRRRMMDDGGMM + rekordy `;` + symbol (6 znaków, dopełniony spacjami) + cena zł ×10⁸ (16 cyfr); arkusze czytają do 30 monet | BTC, ETH: gold-api.com; pozostałe: Bitstamp (tylko z licencją – niżej) × kurs NBP |
 | `metale_hist.txt` | średnie miesięczne zł/oz od 5 lat | Bank Światowy (Pink Sheet, CC BY 4.0), MFW przez DBnomics |
 
 Format: jedna linia, pola o stałej szerokości, same cyfry (brak danych = `-`), na początku litera –
 dzięki temu ani Google, ani Excel nie zamieni treści na liczbę i nie pomyli separatora dziesiętnego.
 Najdłuższy plik ma ok. 13 tys. znaków (limit `WEBSERVICE` w Excelu: 32 767).
+
+## Obrazki (`obrazki/` → `public/ikony/`, `public/monety/`)
+
+Ikony zakładek (Lucide, licencja ISC) w kolorach palety arkusza i logo monet (cryptocurrency-icons, licencja
+CC0 1.0; moneta spoza zestawu – kółko z literami), PNG 64 px dla funkcji `IMAGE` w arkuszach. Pliki licencji
+leżą obok obrazków. `build_api.py` kopiuje je do `public/` przy każdej budowie. Odświeżenie (ręcznie, wymaga
+ImageMagick): `python3 narzedzia/obrazki.py`.
 
 ## Utrzymanie ręczne
 
