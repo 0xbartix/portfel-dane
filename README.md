@@ -17,7 +17,7 @@ zwykła strona (GitHub Pages, Cloudflare Pages albo dowolny hosting plików).
 | `obligacje.txt` | `B` + rekordy `;KOD(7)` + oproc. 1. okresu, marża (×100), opłata za wykup (×100) dla każdej serii od 2014 r. | listy emisyjne MF (PDF) |
 | `oferta.txt` | `O` + RRRRMM + bieżąca oferta 8 rodzajów (po 12 cyfr) | listy emisyjne MF |
 | `brokerzy.txt` | `F` + reguły prowizji (broker, konto, rynek, instrument, od, do, %, minimum, przewalutowanie, próg obrotu) | `dane/brokerzy.json` (z tabel opłat) |
-| `limity.txt` | `L` + limity wpłat IKE / IKZE / IKZE JDG na każdy rok | `dane/limity.json` |
+| `limity.txt` | `L` + limity wpłat IKE / IKZE / IKZE JDG na każdy rok od 2004 (IKZE od 2012, osobny limit JDG od 2021) | `dane/limity.json` |
 | `metale.txt`, `krypto.txt` | cena spot zł/oz (XAU, XAG, XPT, XPD) i zł (BTC, ETH – starszy format); `metale.txt` ma na końcu 4 pola z ceną sprzed 24 h (starsze arkusze ich nie czytają) | gold-api.com × kurs NBP |
 | `kryptowaluty_24h.txt` | jak `kryptowaluty.txt`, cena zł sprzed 24 h (zmiana dzienna) | odczyty godzinowe z `dane/godzinowe.json` (ostatnie 30 h) |
 | `kryptowaluty.txt` | `W` + RRRRMMDDGGMM + rekordy `;` + symbol (6 znaków, dopełniony spacjami) + cena zł ×10⁸ (16 cyfr); arkusze czytają do 30 monet | BTC, ETH: gold-api.com; pozostałe: Bitstamp (tylko z licencją – niżej) × kurs NBP |

@@ -123,14 +123,28 @@ def test_brokerzy_wartosci_z_tabel_oplat():
     assert rule("XTB", "Z", "Z", "E", "2026-10-01")["przewalutowanie_proc"] == 0.5
 
 
-def test_limity_rosna_i_ikze_to_40_procent_ike():
+def test_limity_od_2004_bez_dziur_i_zgodne_z_zasadami_z_kolejnych_lat():
+    """IKE od 2004 (do 2008: 1,5 płacy, od 2009: 3 prognozowane płace), IKZE od 2012 (2012–2013: 1,2 płacy
+    z poprzedniego roku, od 2014: 1,2 prognozowanej = 40% IKE), IKZE przy JDG od 2021 (1,8 = 60% IKE).
+    Arkusz liczy przekroczenia limitu rok po roku – dziura w latach to brak ostrzeżenia u wieloletniego inwestora."""
     lim = json.loads((ROOT / "dane" / "limity.json").read_text(encoding="utf-8"))["limity"]
-    years = sorted(lim)
-    assert years[-1] >= "2026"
+    years = sorted(int(y) for y in lim)
+    assert years == list(range(2004, years[-1] + 1)) and years[-1] >= 2026
     for y in years:
-        assert lim[y]["ikze"] == pytest.approx(lim[y]["ike"] * 0.4, abs=0.01)       # 1,2 / 3
-        assert lim[y]["ikze_jdg"] == pytest.approx(lim[y]["ike"] * 0.6, abs=0.01)   # 1,8 / 3
-    assert all(lim[a]["ike"] < lim[b]["ike"] for a, b in zip(years, years[1:]))
+        v = lim[str(y)]
+        if y >= 2014:
+            assert v["ikze"] == pytest.approx(v["ike"] * 0.4, abs=0.01), y
+        if y >= 2021:
+            assert v["ikze_jdg"] == pytest.approx(v["ike"] * 0.6, abs=0.01), y
+        else:
+            assert v["ikze_jdg"] == v["ikze"], y                   # przed 2021 r. bez osobnego limitu dla JDG
+        assert (v["ikze"] == 0) == (y < 2012), y
+    assert all(lim[str(a)]["ike"] <= lim[str(b)]["ike"] for a, b in zip(years[5:], years[6:]))   # od 2009
+    # dwa zgodne źródła (bossa.pl, ppcg.com.pl; IKZE 2012–2013: bossa.pl i opracowania z 2013 r.)
+    assert {y: lim[str(y)]["ike"] for y in (2004, 2005, 2006, 2008, 2009, 2010, 2012, 2020)} == {
+        2004: 3435, 2005: 3635, 2006: 3521, 2008: 4055, 2009: 9579, 2010: 9579, 2012: 10578, 2020: 15681}
+    assert {y: lim[str(y)]["ikze"] for y in (2012, 2013, 2014, 2020)} == {2012: 4030.8, 2013: 4231.2, 2014: 4495.2,
+                                                                           2020: 6272.4}
 
 
 # --- kryptowaluty --------------------------------------------------------------------------
