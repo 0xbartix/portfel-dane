@@ -98,13 +98,15 @@ BROKERS = json.loads((ROOT / "dane" / "brokerzy.json").read_text(encoding="utf-8
 
 
 def test_brokerzy_kazda_kombinacja_dokladnie_jedna_regula():
-    """Dla każdego brokera, konta, rynku, instrumentu i dnia (2015–2030) obowiązuje dokładnie jedna reguła."""
+    """Dla każdego brokera, konta, rynku, instrumentu i dnia (2015–2030) obowiązuje dokładnie jedna reguła.
+    Rynki (2026-10-11): P – GPW, Z – USA, Londyn, Xetra i inne, E – Euronext (Amsterdam, Paryż, Bruksela),
+    S – Szwajcaria, C – Kanada (BOŚ: inne minimum). Instrumenty: A – akcje, E – ETF, C – ETC/ETN."""
     day = date(2015, 1, 1)
     while day <= date(2030, 12, 31):
         for b in BROKERS["brokerzy"]:
             for konto in "ZIK":
-                for rynek in "PZ":
-                    for instr in "AE":
+                for rynek in "PZESC":
+                    for instr in "AEC":
                         hits = [r for r in BROKERS["reguly"] if r["broker"] == b and konto in r["konta"]
                                 and rynek in r["rynki"] and instr in r["instrumenty"]
                                 and r["od"] <= day.isoformat() <= r["do"]]
@@ -121,6 +123,18 @@ def test_brokerzy_wartosci_z_tabel_oplat():
     assert rule("BOS", "Z", "P", "A", "2026-10-01")["proc"] == 0.38
     assert rule("BOS", "I", "Z", "E", "2027-03-01")["proc"] == 0.29      # po końcu promocji
     assert rule("XTB", "Z", "Z", "E", "2026-10-01")["przewalutowanie_proc"] == 0.5
+    # BOŚ, zagraniczny rynek kasowy (tabela od 10.07.2026; minima od 4.09.2023 – bankier.pl 1.09.2023):
+    # USA, Londyn, Xetra 14 zł (wcześniej 19), Euronext 19 zł (wcześniej 38), Szwajcaria 76 zł, Kanada 152 zł
+    assert [rule("BOS", "Z", m, "A", "2026-10-01")["min_zl"] for m in "ZESC"] == [14, 19, 76, 152]
+    assert [rule("BOS", "Z", m, "A", "2023-01-02")["min_zl"] for m in "ZE"] == [19, 38]
+    assert rule("BOS", "Z", "E", "E", "2026-10-01")["proc"] == 0.29
+    # promocja BOŚ na IKE/IKZE obejmuje ETF, ETN, ETC i inne ETP (analizy.pl 26.02.2026), na GPW i za granicą
+    assert rule("BOS", "I", "P", "C", "2026-10-01")["proc"] == 0.0 and rule("BOS", "K", "E", "C", "2026-10-01")["proc"] == 0.0
+    assert rule("BOS", "I", "P", "C", "2027-03-01")["proc"] == 0.38
+    # mBank: ETF-y na metale i surowce (ETC) poza 0% na IKE/IKZE – taryfa eMakler od 20.03.2026, pkt 2.2 i 6.2
+    assert (rule("MBK", "I", "P", "C", "2026-10-01")["proc"], rule("MBK", "I", "P", "C", "2026-10-01")["min_zl"]) == (0.39, 5)
+    assert (rule("MBK", "K", "E", "C", "2026-10-01")["proc"], rule("MBK", "K", "E", "C", "2026-10-01")["min_zl"]) == (0.29, 14)
+    assert rule("MBK", "I", "E", "E", "2026-10-01")["proc"] == 0.0
 
 
 def test_limity_od_2004_bez_dziur_i_zgodne_z_zasadami_z_kolejnych_lat():
@@ -200,3 +214,15 @@ def test_metale_z_cena_sprzed_24h_zgodne_wstecz(tmp_path, monkeypatch):
     assert m[49:58] == "000003500" and m[58:67] == "-" * 9  # XAU sprzed 24 h, XAG brak odczytu
     k = (tmp_path / "kryptowaluty_24h.txt").read_text()
     assert k.startswith("W202610021200;BTC   ") and ";ETH" not in k
+
+
+def test_brokerzy_txt_miesci_sie_w_sprzedanych_arkuszach():
+    """Sprzedane arkusze czytają najwyżej 300 rekordów brokerzy.txt (uklad.BROKERZY_MAX) – nadmiar przepadłby bez
+    ostrzeżenia. Reguły z samymi zerami (bez prowizji, minimum, przewalutowania i progu) nie trafiają do pliku:
+    arkusz bez pasującej reguły i tak liczy 0 zł (2026-10-11: rynki E, S, C i instrument C)."""
+    import build_api as b
+    rekordy = b.expand_broker_rules(BROKERS)
+    assert len(rekordy) <= 300
+    assert not any(r.startswith(("PKO", "INN")) for r in rekordy)
+    assert any(r.startswith("BOSZEA") for r in rekordy) and any(r.startswith("XTBIEC") for r in rekordy)
+    assert not any(r.startswith("MBKIPE2025110") for r in rekordy)          # promocja 0% bez przewalutowania

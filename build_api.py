@@ -176,9 +176,12 @@ def build_bonds(today):
 
 
 def expand_broker_rules(data):
-    """Reguły z dane/brokerzy.json -> rekordy o stałej długości (55 znaków + średnik)."""
+    """Reguły z dane/brokerzy.json -> rekordy o stałej długości (55 znaków + średnik). Reguły z samymi zerami
+    pomija: arkusz bez pasującej reguły liczy 0 zł, a sprzedane arkusze czytają najwyżej 300 rekordów."""
     rows = []
     for r in data["reguly"]:
+        if not any((r["proc"], r["min_zl"], r["przewalutowanie_proc"], r.get("prog_eur_mies", 0))):
+            continue
         for konto in r["konta"]:
             for rynek in r["rynki"]:
                 for instr in r["instrumenty"]:
