@@ -535,9 +535,10 @@
   "2026-05": 99.7,
   "2026-06": 99.5,
   "2026-07": 100.8,
-  "2026-08": 100.3
+  "2026-08": 100.3,
+  "2026-09": 100.7
  },
- "url": "https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/4741/1/1/miesiecznewskaznikicentowarowiuslugkonsumpcyjnychod1982roku_8.csv",
+ "url": "https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/4741/1/1/miesiecznewskaznikicentowarowiuslugkonsumpcyjnychod1982roku_9.csv",
  "yoy": {
   "1982-01": 153.2,
   "1982-02": 206.4,
@@ -1074,6 +1075,7 @@
   "2026-05": 103.1,
   "2026-06": 102.5,
   "2026-07": 103.0,
-  "2026-08": 103.4
+  "2026-08": 103.4,
+  "2026-09": 104.1
  }
 }
