@@ -531,6 +531,13 @@
   "r1": 5.25,
   "sprzedaz": "2025-11"
  },
+ "COI1130": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/f4c9c836-0174-4846-8b4a-c758a460f492.pdf",
+  "marza": 1.5,
+  "oplata": 2.0,
+  "r1": 4.75,
+  "sprzedaz": "2026-11"
+ },
  "COI1224": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/2654fe2d-cda5-4beb-b34a-dd6fb9999f6b.pdf",
   "marza": 0.75,
@@ -915,6 +922,13 @@
   "oplata": 0.7,
   "r1": 4.65,
   "sprzedaz": "2025-11"
+ },
+ "DOR1128": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/71e38714-2d4e-47cd-998e-69e6d7227802.pdf",
+  "marza": 0.15,
+  "oplata": 0.7,
+  "r1": 4.15,
+  "sprzedaz": "2026-11"
  },
  "DOR1224": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/fd4643d0-9e5c-4f82-956f-3e94b4ac6f85.pdf",
@@ -1910,6 +1924,13 @@
   "r1": 5.75,
   "sprzedaz": "2025-11"
  },
+ "EDO1136": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/25f35d9b-0ea3-4cb9-b3c2-cd9200473a57.pdf",
+  "marza": 2.0,
+  "oplata": 3.0,
+  "r1": 5.35,
+  "sprzedaz": "2026-11"
+ },
  "EDO1224": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/bbd54e3f-19ad-4c71-9199-745d037b36ba.pdf",
   "marza": 1.5,
@@ -2063,6 +2084,13 @@
   "oplata": 99.99,
   "r1": 2.75,
   "sprzedaz": "2025-11"
+ },
+ "OTS0227": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/9eb30d6e-2e51-4ab8-93d5-d1927deedd63.pdf",
+  "marza": 0.0,
+  "oplata": 99.99,
+  "r1": 2.0,
+  "sprzedaz": "2026-11"
  },
  "OTS0322": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/be2d66e3-4afc-44b0-8326-c20d0a1f76a0.pdf",
@@ -3086,6 +3114,13 @@
   "r1": 6.0,
   "sprzedaz": "2025-11"
  },
+ "ROD1138": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/979d708a-899c-4f3c-93bf-b68f7419a6b5.pdf",
+  "marza": 2.5,
+  "oplata": 3.0,
+  "r1": 5.6,
+  "sprzedaz": "2026-11"
+ },
  "ROD1231": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/5804f4d4-1daa-46f4-9023-81fbbfca21c5.pdf",
   "marza": 2.0,
@@ -3477,6 +3512,13 @@
   "oplata": 0.5,
   "r1": 4.5,
   "sprzedaz": "2025-11"
+ },
+ "ROR1127": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/bef80728-48d7-4005-b698-21356047664f.pdf",
+  "marza": 0.0,
+  "oplata": 0.5,
+  "r1": 4.0,
+  "sprzedaz": "2026-11"
  },
  "ROR1223": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/6dbd3c9d-299d-4e6f-a3ab-d832092e25c7.pdf",
@@ -4115,6 +4157,13 @@
   "r1": 5.45,
   "sprzedaz": "2025-11"
  },
+ "ROS1132": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/581f165f-9947-412b-8fb5-35a4cb1a8365.pdf",
+  "marza": 2.0,
+  "oplata": 2.0,
+  "r1": 5.0,
+  "sprzedaz": "2026-11"
+ },
  "ROS1225": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/ef8f3a02-ed76-4cb5-93ec-a97a98f98b49.pdf",
   "marza": 1.75,
@@ -4492,6 +4541,13 @@
   "oplata": 1.0,
   "r1": 4.9,
   "sprzedaz": "2025-11"
+ },
+ "TOS1129": {
+  "list": "https://www.obligacjeskarbowe.pl/media_files/3cfa4725-1f7f-4181-b475-92a277ebc849.pdf",
+  "marza": 0.0,
+  "oplata": 1.0,
+  "r1": 4.4,
+  "sprzedaz": "2026-11"
  },
  "TOS1225": {
   "list": "https://www.obligacjeskarbowe.pl/media_files/72b44bd1-b83e-4399-a868-0ba7ca21fb94.pdf",
